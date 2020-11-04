@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="SimpleSoft.Mediator.Abstractions" Version="1.0.0" />
+    <PackageReference Include="AutoMapper" Version="7.0.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CM.Backend.Documents\CM.Backend.Documents.csproj" />
+    <ProjectReference Include="..\CM.Backend.Persistence\CM.Backend.Persistence.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Model\" />
+    <Folder Include="Model\BrandQueryModels" />
+    <Folder Include="Queries\RatingQueries" />
+    <Folder Include="Queries\UserQueries\" />
+    <Folder Include="Queries\UserCreationQuerires\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Model\CellarSection.cs" />
+    <Compile Remove="Model\InfoPageSection.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System.Reflection.Emit.ILGeneration">
+      <HintPath>..\..\..\..\..\..\usr\local\share\dotnet\sdk\NuGetFallbackFolder\system.reflection.emit.ilgeneration\4.3.0\ref\netstandard1.0\System.Reflection.Emit.ILGeneration.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reflection.Emit.ILGeneration">
+      <HintPath>..\..\..\..\..\..\usr\local\share\dotnet\sdk\NuGetFallbackFolder\system.reflection.emit.ilgeneration\4.3.0\ref\netstandard1.0\System.Reflection.Emit.ILGeneration.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,53 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <Description>Repository pattern for MongoDB</Description>
+    <AssemblyTitle>Repository.Mongo</AssemblyTitle>
+    <Authors>Usame Esendir</Authors>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <AssemblyName>Repository.Mongo</AssemblyName>
+    <PackageId>Repository.Mongo</PackageId>
+    <PackageTags>repository;mongo;mongodb;</PackageTags>
+    <PackageReleaseNotes>Support for .NetStandard 1.5 and .Net 4.5</PackageReleaseNotes>
+    <PackageProjectUrl>https://github.com/esendir/MongoRepository</PackageProjectUrl>
+    <GenerateAssemblyTitleAttribute>false</GenerateAssemblyTitleAttribute>
+    <GenerateAssemblyDescriptionAttribute>false</GenerateAssemblyDescriptionAttribute>
+    <GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
+    <GenerateAssemblyCompanyAttribute>false</GenerateAssemblyCompanyAttribute>
+    <GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
+    <GenerateAssemblyCopyrightAttribute>false</GenerateAssemblyCopyrightAttribute>
+    <Version>2.0.3</Version>
+    <AssemblyVersion>2.0.3</AssemblyVersion>
+    <FileVersion>2.0.3</FileVersion>
+    <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>False</PackageRequireLicenseAcceptance>
+    <RepositoryUrl>
+    </RepositoryUrl>
+    <NeutralLanguage>en</NeutralLanguage>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="MongoDB.Driver" Version="2.7.0" />
+    <PackageReference Include="Polly" Version="6.0.1" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="2.1.1" />
+  </ItemGroup>
+  <ItemGroup Condition="'$(TargetFramework)'!='netstandard2.0'">
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="1.1.2" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System.Reflection.Emit.ILGeneration">
+      <HintPath>..\..\..\..\..\..\usr\local\share\dotnet\sdk\NuGetFallbackFolder\system.reflection.emit.ilgeneration\4.0.1\ref\netstandard1.0\System.Reflection.Emit.ILGeneration.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reflection.Emit.Lightweight">
+      <HintPath>..\..\..\..\..\..\usr\local\share\dotnet\sdk\NuGetFallbackFolder\system.reflection.emit.lightweight\4.0.1\ref\netstandard1.0\System.Reflection.Emit.Lightweight.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reflection.Emit.ILGeneration">
+      <HintPath>..\..\..\..\..\..\usr\local\share\dotnet\sdk\NuGetFallbackFolder\system.reflection.emit.ilgeneration\4.0.1\ref\netstandard1.0\System.Reflection.Emit.ILGeneration.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reflection.Emit.Lightweight">
+      <HintPath>..\..\..\..\..\..\usr\local\share\dotnet\sdk\NuGetFallbackFolder\system.reflection.emit.lightweight\4.0.1\ref\netstandard1.0\System.Reflection.Emit.Lightweight.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DefineConstants>TRACE;NET45;DEBUG;NETSTANDARD1_5</DefineConstants>
+  </PropertyGroup>
+</Project>

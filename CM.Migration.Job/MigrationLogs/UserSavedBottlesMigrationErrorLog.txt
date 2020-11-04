@@ -1,0 +1,5 @@
+UserSavedBottles migration Error Log - 11/21/2018 00:48:50
+	--> Following:TGnDiWAIdP could not be migrated userId was not found in userIdConvertionTable
+
+
+

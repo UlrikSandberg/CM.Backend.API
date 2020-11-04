@@ -1,0 +1,55 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="Aggregates\BrandPage\" />
+    <Folder Include="Aggregates\BrandPage\Commands\" />
+    <Folder Include="Aggregates\BrandPage\Events\" />
+    <Folder Include="Aggregates\BrandPage\Entities\" />
+    <Folder Include="Aggregates\BrandPageSections\" />
+    <Folder Include="Aggregates\BrandPageSections\Commands\" />
+    <Folder Include="Aggregates\BrandPageSections\Events\" />
+    <Folder Include="Aggregates\BrandPageSections\Entities\" />
+    <Folder Include="Aggregates\BrandFile\" />
+    <Folder Include="Aggregates\BrandFile\BrandImage\" />
+    <Folder Include="Aggregates\BrandFile\BrandImage\Commands\" />
+    <Folder Include="Aggregates\BrandFile\BrandImage\Entities\" />
+    <Folder Include="Aggregates\BrandFile\BrandImage\Events\" />
+    <Folder Include="EnumOptions\" />
+    <Folder Include="Aggregates\Champagne\Entities\" />
+    <Folder Include="Aggregates\ChampagneFolder\" />
+    <Folder Include="Aggregates\ChampagneFolder\Commands\" />
+    <Folder Include="Aggregates\ChampagneFolder\Events\" />
+    <Folder Include="Aggregates\User\Entities\" />
+    <Folder Include="Aggregates\User\Commands\" />
+    <Folder Include="Aggregates\User\Events\" />
+    <Folder Include="Aggregates\Tasting\" />
+    <Folder Include="Aggregates\Tasting\Commands\" />
+    <Folder Include="Aggregates\Tasting\Events\" />
+    <Folder Include="Aggregates\Comment\" />
+    <Folder Include="Aggregates\Comment\Commands\" />
+    <Folder Include="Aggregates\Comment\Events\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Aggregates\BrandPage\Entities\BrandPage.cs" />
+    <Compile Remove="URLManager\URLDelegateManager.cs" />
+    <Compile Remove="Aggregates\ChampagneGroup\Commands\AddChampagneToGroup.cs" />
+    <Compile Remove="Aggregates\ChampagneGroup\Events\ChampagneAddedToGroup.cs" />
+    <Compile Remove="Aggregates\User\Commands\SaveChampagne.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Aggregates\User\UserProposition.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CM.Backend.Documents\CM.Backend.Documents.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="EmailValidation" Version="1.0.3" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed">
+      <HintPath>..\..\..\..\.nuget\packages\newtonsoft.json\11.0.2\lib\netstandard2.0\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>

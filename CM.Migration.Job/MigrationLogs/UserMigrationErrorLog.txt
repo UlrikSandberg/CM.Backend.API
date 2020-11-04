@@ -1,0 +1,10 @@
+User Migration Error Log - 11/20/2018 23:12:02
+User: Email:sinanözübir@gmail.com - oldId:aSfKq8C5zU --> New Id:00000000-0000-0000-0000-000000000000
+	--> User oldId:aSfKq8C5zU Email:sinanözübir@gmail.com --> User has an invalid email and could therefor not be recreated
+
+
+User: Email:jonatan.hess@-online.de - oldId:2jC5Y87rOK --> New Id:00000000-0000-0000-0000-000000000000
+	--> User oldId:2jC5Y87rOK Email:jonatan.hess@-online.de --> User has an invalid email and could therefor not be recreated
+
+
+

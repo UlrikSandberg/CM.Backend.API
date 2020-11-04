@@ -1,0 +1,51 @@
+Brand Migration Error Log - 11/20/2018 22:15:18
+Brand migrated: Pol Roger old Id: 4yHsyAwp11 --> new Id: a7fee5c3-aed2-4d48-bbd2-ccd30396b262 --> $$4yHsyAwp11 ; $$a7fee5c3-aed2-4d48-bbd2-ccd30396b262
+Brand migrated: Armand de Brignac old Id: A1rBkm3VnS --> new Id: c92cb5fc-5992-4d01-942a-e61dc95f7fba --> $$A1rBkm3VnS ; $$c92cb5fc-5992-4d01-942a-e61dc95f7fba
+Brand migrated: Mumm old Id: ATGvwZW3zT --> new Id: 65c0fb66-444b-489b-9599-1010865bd329 --> $$ATGvwZW3zT ; $$65c0fb66-444b-489b-9599-1010865bd329
+Brand migrated: Vranken old Id: DTKKPGDPJE --> new Id: 7cccb704-e8e6-482d-aedb-bb7c6b16cc5a --> $$DTKKPGDPJE ; $$7cccb704-e8e6-482d-aedb-bb7c6b16cc5a
+Brand migrated: Charles Lafitte old Id: HVLYgMD94H --> new Id: 9ce25ed1-d486-4c74-8b3a-1a76fe219df3 --> $$HVLYgMD94H ; $$9ce25ed1-d486-4c74-8b3a-1a76fe219df3
+Brand migrated: Palmer & Co old Id: HdQ8hEa9eM --> new Id: 6050c131-a777-452f-bd3b-3ae1337e4f45 --> $$HdQ8hEa9eM ; $$6050c131-a777-452f-bd3b-3ae1337e4f45
+Brand migrated: Monopole old Id: I8GaQn2LX0 --> new Id: 8fcd25da-bce3-419a-a4d1-4f37bd0418cb --> $$I8GaQn2LX0 ; $$8fcd25da-bce3-419a-a4d1-4f37bd0418cb
+Brand migrated: Mazarus old Id: IYqQcLtqTt --> new Id: 67109dfc-b0fe-4111-b9c9-fc590665de83 --> $$IYqQcLtqTt ; $$67109dfc-b0fe-4111-b9c9-fc590665de83
+Brand migrated: Pommery old Id: JVbu6jaqI5 --> new Id: fb99e35f-c59d-4a24-ac48-a893d2869361 --> $$JVbu6jaqI5 ; $$fb99e35f-c59d-4a24-ac48-a893d2869361
+Brand migrated: Lucien Collard old Id: JiBrmEjYq9 --> new Id: 50365d62-2a83-40a3-91fa-de7b0bda87fc --> $$JiBrmEjYq9 ; $$50365d62-2a83-40a3-91fa-de7b0bda87fc
+Brand migrated: Louis Roederer old Id: LBrOfNgfsw --> new Id: 0f00ae24-b559-4e9e-90a9-97e4e1e24ddf --> $$LBrOfNgfsw ; $$0f00ae24-b559-4e9e-90a9-97e4e1e24ddf
+Brand migrated: Mercier old Id: LwBm2yG4wM --> new Id: 9fd3b930-e2df-42d9-897e-7c62de996081 --> $$LwBm2yG4wM ; $$9fd3b930-e2df-42d9-897e-7c62de996081
+Brand migrated: Hervieux-Dumez old Id: RTCGCfuugu --> new Id: b9d92b49-9b79-4208-9ac8-af37500cd4e2 --> $$RTCGCfuugu ; $$b9d92b49-9b79-4208-9ac8-af37500cd4e2
+Brand migrated: Ruinart old Id: RVDP3knewh --> new Id: 53770152-bbe1-4e5e-a030-7ef7f1b4d46c --> $$RVDP3knewh ; $$53770152-bbe1-4e5e-a030-7ef7f1b4d46c
+Brand migrated: Dom Pérignon old Id: Rlw8y4bith --> new Id: 7eaf6ae8-07a9-43cc-9ec8-3c86773e55dd --> $$Rlw8y4bith ; $$7eaf6ae8-07a9-43cc-9ec8-3c86773e55dd
+Brand migrated: Gosset old Id: To113uLUwW --> new Id: 2949d5ae-75ba-4611-b0c5-2e0025d6592a --> $$To113uLUwW ; $$2949d5ae-75ba-4611-b0c5-2e0025d6592a
+Brand migrated: Bruno Michel old Id: UGQeeUDfxn --> new Id: 2ce88fa7-6879-45d6-aa5f-b3b2735112d0 --> $$UGQeeUDfxn ; $$2ce88fa7-6879-45d6-aa5f-b3b2735112d0
+Brand migrated: Gremillet old Id: VMToDzzZfc --> new Id: 262bcef1-65ee-4253-b5d9-b64391efbd42 --> $$VMToDzzZfc ; $$262bcef1-65ee-4253-b5d9-b64391efbd42
+Brand migrated: Bollinger old Id: Vm0KUyDDl0 --> new Id: c30f1df8-f799-4dd9-a1b6-c6e508836b14 --> $$Vm0KUyDDl0 ; $$c30f1df8-f799-4dd9-a1b6-c6e508836b14
+Brand migrated: Angel Champagne old Id: Xf4Q41o0Kf --> new Id: 8f742b9e-645f-4701-9816-4a921de288e9 --> $$Xf4Q41o0Kf ; $$8f742b9e-645f-4701-9816-4a921de288e9
+Brand migrated: Perrier-Jouët old Id: ZqkLiyN7Nf --> new Id: de8044ac-356a-474f-a0fb-d9dc60ff0c8d --> $$ZqkLiyN7Nf ; $$de8044ac-356a-474f-a0fb-d9dc60ff0c8d
+Brand migrated: Veuve Clicquot old Id: dV7k1VPTLG --> new Id: d67873aa-18ff-417c-a50d-8b383772510b --> $$dV7k1VPTLG ; $$d67873aa-18ff-417c-a50d-8b383772510b
+Brand migrated: Laurent-Perrier old Id: jphPjkasGU --> new Id: 877a57f5-288e-490e-b668-4bdb224301c6 --> $$jphPjkasGU ; $$877a57f5-288e-490e-b668-4bdb224301c6
+Brand migrated: Cuvée Carat old Id: lCnsJ1x1Hp --> new Id: 7e08bc4e-f0c3-4cab-a4ea-6352dd27de58 --> $$lCnsJ1x1Hp ; $$7e08bc4e-f0c3-4cab-a4ea-6352dd27de58
+Brand migrated: Lasseaux & Fils old Id: noI8gomfmX --> new Id: 7831ea47-3e2c-4a88-a081-0d1c838ed624 --> $$noI8gomfmX ; $$7831ea47-3e2c-4a88-a081-0d1c838ed624
+Brand migrated: Krug old Id: pG4x1oxaTg --> new Id: d9d61a92-3ecd-447f-b1bc-dc45d8ca56bb --> $$pG4x1oxaTg ; $$d9d61a92-3ecd-447f-b1bc-dc45d8ca56bb
+Brand migrated: Moët & Chandon old Id: pZbBXpaaDJ --> new Id: 61f95938-adea-4196-b0aa-f06d1f1df368 --> $$pZbBXpaaDJ ; $$61f95938-adea-4196-b0aa-f06d1f1df368
+Brand migrated: Taittinger old Id: qZvTrm6Wt5 --> new Id: d8a0769d-d3e2-4baa-b0f7-6521c7cfcec9 --> $$qZvTrm6Wt5 ; $$d8a0769d-d3e2-4baa-b0f7-6521c7cfcec9
+Brand migrated: Alain Edouard old Id: tvNY0ahdjQ --> new Id: 63edc28b-f645-462b-b390-8ae54edeacd1 --> $$tvNY0ahdjQ ; $$63edc28b-f645-462b-b390-8ae54edeacd1
+Brand migrated: Ayala old Id: 6CNfjBwzPd --> new Id: ab70f826-822d-42b6-9977-3fd5f4262620 --> $$6CNfjBwzPd ; $$ab70f826-822d-42b6-9977-3fd5f4262620
+Brand migrated: Drappier old Id: JxcSWONWeP --> new Id: 4f06abba-03e6-4a30-962b-e69652a9e6a7 --> $$JxcSWONWeP ; $$4f06abba-03e6-4a30-962b-e69652a9e6a7
+Brand migrated: Boll & Cie old Id: smUzxbswyy --> new Id: 153f383d-3c8f-4d65-bcae-3757b212ec0c --> $$smUzxbswyy ; $$153f383d-3c8f-4d65-bcae-3757b212ec0c
+Brand migrated: TRÈFLE D’OR old Id: 0sCvI6DTxZ --> new Id: 21ee69af-7b43-411b-99e8-bf3f65d32563 --> $$0sCvI6DTxZ ; $$21ee69af-7b43-411b-99e8-bf3f65d32563
+Brand migrated: Deville old Id: j4IPqAPuN9 --> new Id: d4688787-de8a-46a0-88f2-7f31ba5ffad0 --> $$j4IPqAPuN9 ; $$d4688787-de8a-46a0-88f2-7f31ba5ffad0
+Brand migrated: Le Brun De Neuville old Id: mmJ47OofGq --> new Id: 865fd5c8-04c0-4837-828a-1cf8e932699f --> $$mmJ47OofGq ; $$865fd5c8-04c0-4837-828a-1cf8e932699f
+Brand migrated: Philipponnat old Id: rdWU66YpFP --> new Id: 34da044c-9a52-4ee1-b842-7dd880e65ca1 --> $$rdWU66YpFP ; $$34da044c-9a52-4ee1-b842-7dd880e65ca1
+Brand migrated: La Comtesse A old Id: T9Z9IZSpcE --> new Id: d8b286e5-fece-4ee8-b4b7-6556f3accf94 --> $$T9Z9IZSpcE ; $$d8b286e5-fece-4ee8-b4b7-6556f3accf94
+Brand migrated: Morel old Id: xv1vEhozOs --> new Id: 9af55dd9-57a0-4ee7-a084-bcfe7d69d125 --> $$xv1vEhozOs ; $$9af55dd9-57a0-4ee7-a084-bcfe7d69d125
+Brand migrated: Charles Mignon old Id: OhOembQdAo --> new Id: 983ca110-f1f0-4c29-a78d-f6ab2da9958e --> $$OhOembQdAo ; $$983ca110-f1f0-4c29-a78d-f6ab2da9958e
+Brand migrated: Jacquart old Id: JYy7bixfPK --> new Id: b0fb7a46-20ce-4ff1-9d95-0a5d3801ff2f --> $$JYy7bixfPK ; $$b0fb7a46-20ce-4ff1-9d95-0a5d3801ff2f
+Brand migrated: Champagne Carbon old Id: HR7jWq1HnE --> new Id: 3d4b228d-99f9-4332-a978-c90fba92080b --> $$HR7jWq1HnE ; $$3d4b228d-99f9-4332-a978-c90fba92080b
+Brand migrated: Albert Beerens old Id: H6P4BjFLHF --> new Id: 3d1187c0-15e6-413a-85c3-c9a47c791914 --> $$H6P4BjFLHF ; $$3d1187c0-15e6-413a-85c3-c9a47c791914
+Brand migrated: Charlier & Fils old Id: qDfenPu2A4 --> new Id: 25fceb4c-5b01-427b-8e56-783c3eecb849 --> $$qDfenPu2A4 ; $$25fceb4c-5b01-427b-8e56-783c3eecb849
+Brand migrated: G.F. Duntze old Id: 1ywjdHbCsp --> new Id: eb836e52-ebad-4ab6-a90c-da6d9c0edbf1 --> $$1ywjdHbCsp ; $$eb836e52-ebad-4ab6-a90c-da6d9c0edbf1
+Brand migrated: Sadi Malot old Id: 484Zvm3fK9 --> new Id: 881174ce-3364-476a-a2bb-4eb343cb0a45 --> $$484Zvm3fK9 ; $$881174ce-3364-476a-a2bb-4eb343cb0a45
+Brand migrated: Lombard old Id: 0cZ46rEtCc --> new Id: fe217fa3-ccbf-4fc9-9f82-899b4d0b186d --> $$0cZ46rEtCc ; $$fe217fa3-ccbf-4fc9-9f82-899b4d0b186d
+Brand migrated: Poinsot Frères old Id: AIFbjx7ydm --> new Id: 4d9cfcdf-3380-4600-8ac2-ab47591ba185 --> $$AIFbjx7ydm ; $$4d9cfcdf-3380-4600-8ac2-ab47591ba185
+Brand migrated: Richard Bavion old Id: J0hVMQp8js --> new Id: 241e0317-3ea8-4b8a-b339-fddd54fbb7a2 --> $$J0hVMQp8js ; $$241e0317-3ea8-4b8a-b339-fddd54fbb7a2
+Brand migrated: Collet old Id: PZD2gn4wxA --> new Id: fe9588e0-2d63-4177-a922-ae537cd5b671 --> $$PZD2gn4wxA ; $$fe9588e0-2d63-4177-a922-ae537cd5b671
+Brand migrated: Boutrop old Id: idp35ND0l9 --> new Id: f20eb3a8-e5e7-4e8f-bab8-5c206225d727 --> $$idp35ND0l9 ; $$f20eb3a8-e5e7-4e8f-bab8-5c206225d727

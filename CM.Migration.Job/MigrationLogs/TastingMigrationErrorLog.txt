@@ -1,0 +1,46 @@
+Tasting migration Error Log - 11/20/2018 23:41:55
+Tasting: OldId:FoWseuqNzE - NewId:00000000-0000-0000-0000-000000000000 - userId: WMYAvjhTXb - brandId:
+	--> FoWseuqNzE - for bottle: - by user:WMYAvjhTXb - could not be migrated due to invalid brandId:
+
+
+Tasting: OldId:pvGLMpCUK6 - NewId:00000000-0000-0000-0000-000000000000 - userId: WMYAvjhTXb - brandId:
+	--> pvGLMpCUK6 - for bottle: - by user:WMYAvjhTXb - could not be migrated due to invalid brandId:
+
+
+Tasting: OldId:J0jmn5eIJt - NewId:00000000-0000-0000-0000-000000000000 - userId: wa2iMeWZGz - brandId:
+	--> J0jmn5eIJt - for bottle: - by user:wa2iMeWZGz - could not be migrated due to invalid brandId:
+
+
+Tasting: OldId:mrE4HRRjCb - NewId:00000000-0000-0000-0000-000000000000 - userId: wa2iMeWZGz - brandId:pG4x1oxaTg
+	--> ****** Error migrating tasting ***** mrE4HRRjCb - for user:wa2iMeWZGz
+
+
+Tasting: OldId:e4jrXVuKJ2 - NewId:00000000-0000-0000-0000-000000000000 - userId: 6DInjHMT2u - brandId:pZbBXpaaDJ
+	--> ****** Error migrating tasting ***** e4jrXVuKJ2 - for user:6DInjHMT2u
+
+
+Tasting: OldId:mp9bJHXvEl - NewId:00000000-0000-0000-0000-000000000000 - userId: eLZHDGAz19 - brandId:pZbBXpaaDJ
+	--> ****** Error migrating tasting ***** mp9bJHXvEl - for user:eLZHDGAz19
+
+
+Tasting: OldId:tmd64sQARB - NewId:00000000-0000-0000-0000-000000000000 - userId: QE4eCNUEhP - brandId:6CNfjBwzPd
+	--> ****** Error migrating tasting ***** tmd64sQARB - for user:QE4eCNUEhP
+
+
+Tasting: OldId:s0aUZe1uSQ - NewId:00000000-0000-0000-0000-000000000000 - userId: 2jC5Y87rOK - brandId:A1rBkm3VnS
+	--> s0aUZe1uSQ - for bottle:R2t3HNvXqR - by user:2jC5Y87rOK - could not be migrated due to invalid userId:2jC5Y87rOK
+
+
+Tasting: OldId:eSQ3kgI0AW - NewId:00000000-0000-0000-0000-000000000000 - userId: 2jC5Y87rOK - brandId:pG4x1oxaTg
+	--> eSQ3kgI0AW - for bottle:AXHV6dkYYU - by user:2jC5Y87rOK - could not be migrated due to invalid userId:2jC5Y87rOK
+
+
+Tasting: OldId:gduDgtOEPl - NewId:00000000-0000-0000-0000-000000000000 - userId: MTnVmkX4EE - brandId:pZbBXpaaDJ
+	--> ****** Error migrating tasting ***** gduDgtOEPl - for user:MTnVmkX4EE
+
+
+Tasting: OldId:rSzUC5u2GS - NewId:00000000-0000-0000-0000-000000000000 - userId: Rs7Pb2wTY5 - brandId:LBrOfNgfsw
+	--> ****** Error migrating tasting ***** rSzUC5u2GS - for user:Rs7Pb2wTY5
+
+
+

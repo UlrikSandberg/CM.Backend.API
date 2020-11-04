@@ -1,0 +1,74 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+  <Target Name="PrepublishScript" BeforeTargets="PrepareForPublish">
+    <ItemGroup>
+      <DocFile Include="bin\$(Configuration)\$(TargetFramework)\*.xml" />
+    </ItemGroup>
+    <Copy SourceFiles="@(DocFile)" DestinationFolder="$(PublishDir)" SkipUnchangedFiles="false" />
+  </Target>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>bin\Debug\netcoreapp2.0\CM.Backend.API.xml</DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DocumentationFile>bin\Release\netcoreapp2.0\CM.Backend.API.xml</DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RuntimeFrameworkVersion>2.1.1</RuntimeFrameworkVersion>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Remove="Controllers\BrandsController.Pages.cs" />
+    <Compile Remove="Controllers\BrandsController.Sections.cs" />
+    <Compile Remove="Controllers\FilesController.cs" />
+    <Compile Remove="Controllers\UsersController.cs" />
+    <Compile Remove="Controllers\BrandsController.BrandPages.cs" />
+    <Compile Remove="Controllers\BrandPageController.cs" />
+    <Compile Remove="RequestModels\CreateSectionRequest.cs" />
+    <Compile Remove="TypeRegistry.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.ApplicationInsights.Web" Version="2.8.1" />
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.1.5" />
+    <PackageReference Include="Microsoft.Azure.NotificationHubs" Version="2.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+    <PackageReference Include="Serilog.AspNetCore" Version="2.1.1" />
+    <PackageReference Include="StructureMap.Microsoft.DependencyInjection" Version="1.4.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Annotations" Version="4.0.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Filters" Version="4.5.1" />
+    <PackageReference Include="System.Configuration.Abstractions" Version="2.0.2.45" />
+    <PackageReference Include="SixLabors.ImageSharp" Version="1.0.0-beta0004" />
+    <PackageReference Include="IdentityServer4.AccessTokenValidation" Version="2.6.0" />
+    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.5.1" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="2.1.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="4.0.1" />
+    <PackageReference Include="WindowsAzure.Storage" Version="9.3.2" />
+  </ItemGroup>
+  <ItemGroup>
+    <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="1.0.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CM.Backend.Documents\CM.Backend.Documents.csproj" />
+    <ProjectReference Include="..\CM.Backend.Messaging.Contracts\CM.Backend.Messaging.Contracts.csproj" />
+    <ProjectReference Include="..\CM.Backend.Messaging.Infrastructure\CM.Backend.Messaging.Infrastructure.csproj" />
+    <ProjectReference Include="..\CM.Instrumentation\CM.Instrumentation.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="EnumOptions\" />
+    <Folder Include="RequestModels\UserRequestModels\" />
+    <Folder Include="wwwroot\Images" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Controllers\BrandsController.Champagnes" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="RequestModels\UserRequestModels\BookmarkChampagneRequestModel.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Extensions.PlatformAbstractions">
+      <HintPath>..\..\..\..\..\..\usr\local\share\dotnet\sdk\NuGetFallbackFolder\microsoft.extensions.platformabstractions\1.1.0\lib\netstandard1.3\Microsoft.Extensions.PlatformAbstractions.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>

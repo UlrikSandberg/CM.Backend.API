@@ -1,0 +1,3086 @@
+Champagne Migration Error Log - 11/20/2018 23:11:57
+Oenothèque Rose - OldId:00FQx8H8yk - NewId:8e1af317-80f0-4f86-853a-a3c7d5f82694 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Vintage Rosé - OldId:04MuVqmibs - NewId:8c698965-bd44-4ccc-aa09-fbab5e5cfb77 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Impérial Ice Rosé - OldId:0HbGd1x5VX - NewId:e8dd5c5e-b898-4440-a0d8-d58dfdf6da9b 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Clos D'Ambonnay - OldId:07BcRsJNCp - NewId:d62ac604-1793-4292-b81c-4ff3b36cfc7c 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Cuvée Evidence - OldId:0JiEjCQiak - NewId:e51a13f2-fcb8-4c2e-8d97-7e5ff8f0860e 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Belle Epoque - OldId:0Ty54eGrWu - NewId:fc2ef176-4d05-4a7e-acee-b0c36b965c9c 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+La Grande Dame Brut - OldId:1A9uaIn1Gi - NewId:80bfbf55-2c86-456a-ab7c-9b7a25535b69 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Comtes de Champagne Rosé - OldId:1UqhQXYYWG - NewId:343718f1-b4f8-49f9-a1e6-d5ffbbecdc7b 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Brut Millésimé - OldId:1hzKN6WD6f - NewId:534a6038-dad2-428a-aa40-67c2e71f090e 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Belle Epoque Rosé - OldId:1mlhlAXkkB - NewId:2d4a61a2-3e5c-493e-be04-2a0e7030dffc 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Brut Millésimé - OldId:1pX5FMRYyV - NewId:225b5bbe-52dd-4b16-ae86-d7a6f558e188 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Vintage Rich - OldId:2DwlX1i7It - NewId:9df5dbb9-7568-4f5b-84d7-a3b1a7398701 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Vintage Rosé - OldId:2Lfx1GRrQY - NewId:193658c6-53fe-42fc-9d4f-7440b5e399fb 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Vintage Brut - OldId:2YGoy3JpCk - NewId:e04edf6b-ca8f-4591-89cc-fe69442bb2e5 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Grand Vintage Brut - OldId:2hV7zefKE0 - NewId:eb857653-ab0f-480a-bc22-2ebff6a0f69e 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Vintage Rosé - OldId:2lDtCOEiL3 - NewId:acb859d3-05ed-4244-9067-c23a35afcad9 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Clos D'Ambonnay - OldId:2oWvFgnguO - NewId:b7ddc488-c3d6-4b45-ae32-e4f228c12bda 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Sir Winston Churchill - OldId:3GV6rBbtga - NewId:f9dfb884-9223-43c4-8435-2f48fd9a583c 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+R. Lalou Millésimé - OldId:3VFqnRScw5 - NewId:10f6eede-2f2e-468c-bb48-15074c79c9a3 
+
+	--> Migration image failed --> ImageId set to Guid.Empty
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Nectar Réserve - OldId:3dVDPEEUqZ - NewId:9406e4a9-ad3c-41ab-8575-c585a82ef8a3 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Vintage Blanc de Blancs - OldId:3y6BEpExi6 - NewId:30ae6e8a-4bf5-4438-8601-0eff012afa27 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Grand Vintage Brut - OldId:3zUwNjYUEC - NewId:c5e18cd1-dedd-4af9-bcc7-566e170ed803 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Blanc de Blancs - OldId:4DgECSYLvm - NewId:3565fc26-a09a-4a8a-a975-1a6400b074f1 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Blanc de Noirs - OldId:4KGN36IjqO - NewId:c51c0923-58ec-4e18-be58-fc68ebc465dd 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+La Grande Dame Rosé - OldId:4L5JGnKC9L - NewId:1dc55761-28bd-437d-9add-61f2beaa3634 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Le Millésimé - OldId:4MYUODqBIi - NewId:1ada20cb-3344-486b-b7c4-069cdc6e110a 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Blanc de Blancs - OldId:4VDhUz2bjy - NewId:f6613abd-8125-4efa-8696-03de46d8a9b4 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Le Millésimé - OldId:4fBFRwpfFv - NewId:11a9ddb5-b02b-46dd-9ae4-021c10e4cf78 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Cristal - OldId:4tfmriEuAI - NewId:954de5f3-f935-40a1-80f3-803e23f05ffb 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Belle Epoque Rosé - OldId:4vxhmudGMF - NewId:e6177ac7-c621-4652-ac6d-1f1f15f58304 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Rosé des Roses - OldId:4yWLoKnnYE - NewId:65a0493c-f183-4a77-831b-683350c95c4c 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Blanc de Blancs - OldId:5ITWpZ5ds9 - NewId:cd385bfa-80e3-4c53-aeaa-4944214428ed 
+
+	--> Failed to convert.Blanc de Blancs VintageYear:  could not be converted substituted with 0
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+La Grande Dame Brut - OldId:5cvQaG1lCM - NewId:b8ab9db0-fbac-416a-8425-2f39fc93780a 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Harmony - OldId:5gWXxBEdrC - NewId:5810d034-d453-4131-a726-2800c5bc7eb8 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+La Grande Année Brut - OldId:5jsx3PP1yk - NewId:4251aed2-756d-4000-a726-dc34591e8625 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Cave Privée Rosé - OldId:6140qY6U8G - NewId:e27174c9-49ed-4606-9ab6-66218d2a3d26 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Cristal Rosé - OldId:68WAH1EzQZ - NewId:faf4d142-7693-45ca-b57a-b26529f4c088 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Collection - OldId:69t6wDN56D - NewId:2f7199c5-5f31-46cd-9f8e-bd5840fad14b 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Rosé - OldId:6Lm9A7kcqL - NewId:a5e649e1-426e-4d7d-bbfb-070607fa0484 
+
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Alexandra Rosé - OldId:6XhhjN87aX - NewId:232fcb59-bf33-467d-9a1a-6d07308a62cf 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+La Grande Dame Rosé - OldId:6YCnJHUHds - NewId:5b04f2e9-dad4-4b9f-a5e2-e4226ef2eecf 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Brut Millésimé - OldId:6YxF2ajmXF - NewId:04288bb2-af85-4452-b1a3-98e19f41321c 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Vintage Brut - OldId:6Z8wLidZCj - NewId:9168d8d9-498a-4661-b800-20d790784c1b 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Vintage Rosé - OldId:6uy08LzGCD - NewId:32649841-5391-433a-b856-53243051eb2a 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Ultra Brut - OldId:74IyDZo7M4 - NewId:a689e22d-2c2d-4973-b18f-d580b101397d 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Vintage Brut - OldId:766CAyXU6d - NewId:053378e1-2c82-4300-94e3-f18f20f04f7a 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Blanc de Blancs - OldId:7EOZlicjv2 - NewId:8d766ea7-f99a-4b52-a61a-343eee0475a3 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Oenothèque Rose - OldId:7KAZDau3Gn - NewId:8666946d-d4b0-4be5-86c8-551a11799dcc 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Rosé - OldId:7PmBmIglKu - NewId:db3dca83-be48-4027-a828-be4c3fca73a4 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Dom Ruinart Blanc de Blancs - OldId:7WmLgKb29T - NewId:4017d430-4416-4144-b1d7-7b8249d62565 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Grande Année Brut - OldId:7etAEBqwjz - NewId:06072f66-8196-463c-895f-c2c4b2697dfe 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Cave Privée - OldId:8HebAtS6En - NewId:976f00ed-6f50-4dd2-8275-12767ec9b4c3 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Cristal - OldId:8Q3m4a18Ox - NewId:3abe28c0-5b72-423d-9520-f565b6b32a36 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Impérial Brut - OldId:8SaMgUBLpd - NewId:e99cc586-64a1-41fa-880b-afeb234e2242 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Brut Millésimé - OldId:8ZgoCis3aD - NewId:b486bae4-0816-4354-b727-cb20f407d5ea 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Vintage Rosé - OldId:8aSgIfShLU - NewId:e17853e6-0324-40c9-b07a-2c49b2c3be29 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+LTD Rosé by Jeff Koons - OldId:8oVJ14NBuW - NewId:4f178981-ecb9-41e3-9697-538e5b630dec 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+LTD Rosé By Iris Van Herpen - OldId:95UN5dZY6J - NewId:655845e7-ff95-4cd1-9ad1-5d385400ed24 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Vintage Rich - OldId:9gpf8R0knM - NewId:cd73cb8c-083e-40eb-86a7-af5e393f37c9 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Vintage Rosé - OldId:9k3YnPMcll - NewId:6306e843-0e00-4f3b-beac-085d2a62d901 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Grand Vintage Brut - OldId:9l4HMv3ESs - NewId:b79a4daf-0abf-4161-bec0-9594ee3a6c7a 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Belle Epoque - OldId:9uRlzuFVpA - NewId:00ee86ca-58aa-44ee-aceb-0b258651f91a 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Grand Vintage Brut - OldId:ADiQqwmYBn - NewId:639a20f5-5ff8-4e6e-856c-8809a90a0a1b 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+N°1 Range Pink - OldId:AHtJi5Vwx6 - NewId:b40bdbaa-f506-44d3-8581-2250ce1ea85f 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Vintage Rosé - OldId:AKly2sRqMq - NewId:f6a66341-f3d6-4487-831a-87d3ea044a13 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Brut Réserve - OldId:AWaMj2JJUP - NewId:d96cb02c-db32-4a69-8ae7-682d66775f45 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Grande Cuvée - OldId:AXHV6dkYYU - NewId:bcc14cc2-6737-419e-b447-2acf2f252e61 
+
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Vintage Rosé - OldId:Ai1TnUeYDA - NewId:5c727e43-da1e-4395-8ce7-f70599d76c8b 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Bled Rosé - OldId:AtYjyuExeN - NewId:6b1f2c5a-8fd9-427e-b60f-066df3649249 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Belle Epoque - OldId:AwGuADdS0W - NewId:555c8536-4bf0-4484-a642-ddc8fdc45859 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Vintage Brut - OldId:BBRuRF1zrM - NewId:2cdcb45f-657e-4242-a983-f35de0878383 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Grande Réserve - OldId:BBhdJI0kjp - NewId:254ddb8c-c50f-4ff6-bbbd-2784e6d47b82 
+
+	--> Failed to convert.Grande Réserve VintageYear:  could not be converted substituted with 0
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+R. Lalou Millésimé - OldId:BKlHKEnrb4 - NewId:b9eeccec-81e0-436c-972f-b80bf7975a49 
+
+	--> Migration image failed --> ImageId set to Guid.Empty
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Grande Année Brut - OldId:BZ5XdrSmNC - NewId:71b07f17-bbac-483d-92f1-d12a1c46490a 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+LTD Belle Epoque Rosé by Vik Muniz - OldId:BhA4K7Dssl - NewId:02afb2a7-5b8b-4eb0-995d-aca181d55656 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Vintage Brut - OldId:Bi0DF5Wkml - NewId:5b8e3a2e-522b-48bf-9af7-1cba97843a02 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Comtes de Champagne Rosé - OldId:BqjX1jGZ9x - NewId:11f01af7-082e-429d-8693-b81cce93d9d1 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Dom Ruinart Rosé - OldId:C5xnAoOLxY - NewId:9d868e5e-1ee1-42c2-a197-eff6dc45d0f5 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Brut Millésimé - OldId:CAcUlDkAHm - NewId:10b316fb-b263-4213-9978-055d092e7986 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Vintage Brut - OldId:CFzWb7WCR4 - NewId:3934e850-69fd-4e62-8a4b-79a35f3b5d91 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Vintage Brut - OldId:CUVlj0SOC4 - NewId:b4aeb088-ff70-4367-9b86-210d4104f26b 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Vintage Brut - OldId:CY6c9LFspW - NewId:f638e20d-4c3b-4df1-8bd1-bea1ac36453c 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+La Grande Dame Rosé - OldId:Cd4SEvsXQE - NewId:58c1132c-d140-432f-8099-8c9bc4fee3ba 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Brut Réserve - OldId:CjIABesjoW - NewId:4551e76d-c794-43d7-9518-b7588cf3f1c1 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Comtes de Champagne Blanc de Blancs - OldId:CsAWFOByH8 - NewId:435a00df-efd3-4f1e-8a02-945e08d39e20 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Vintage Brut - OldId:CtZ1RneVu9 - NewId:e855dd00-177e-4f02-bbfc-a06f2e4f7bb7 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Sir Winston Churchill - OldId:D4oCMJabfc - NewId:957a10aa-cc32-4603-9e24-536dd398bf96 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Cave Privée Rosé - OldId:D5tGHvlUAw - NewId:1670b46a-6963-454f-b2cb-92ae70f48d9a 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+LTD Rosé by Björk & Chris Cunningham - OldId:DGtq87GZsn - NewId:21e6aad9-8c61-41b2-8251-ab777bdc933f 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Brut Millésimé - OldId:DMkqlZbj5b - NewId:3c48f1b8-ea80-4b71-b86c-89ccb201326d 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Le Millésimé - OldId:Dkw5q0RnTn - NewId:7d00739d-b81b-466f-8ca5-f89e6852ece0 
+
+	--> Migration image failed --> ImageId set to Guid.Empty
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Nocturne Rosé - OldId:DvSTqWKYZb - NewId:850bd8ea-cb93-4f56-8d27-88088cc6f25d 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Vintage Rich - OldId:Dyp6GmFu4L - NewId:7fcbb881-6e4b-4703-8a32-eef81e5af018 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Dom Ruinart Rosé - OldId:EBC0Hu8ER3 - NewId:7a7588a1-b987-4da7-9f1c-4c2f95484038 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Vintage Brut - OldId:EKXUe8QHue - NewId:f0dee547-95f5-40c9-a2e3-a275a1af8078 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Pure Extra Brut - OldId:EeS3h2K1AV - NewId:50589991-4725-4bbc-8ca9-50ad53829d88 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Vintage Blanc de Blancs - OldId:EgJrShyLIq - NewId:21436aea-d5dc-48c4-bbb5-5f2fb7d4a41d 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+LTD Belle Epoque Edition premiere - OldId:EitMeNL6Am - NewId:98d7a6c3-c10f-446b-a8a4-bb270159a97b 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Blanc de Blancs Cramant - OldId:EizVH8p6Dz - NewId:e485ef3a-816e-4e6c-bf6a-90e9fcd11870 
+
+	--> Migration image failed --> ImageId set to Guid.Empty
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Clos D'Ambonnay - OldId:EmC4MIFxLZ - NewId:e7fcc9fb-5c06-43f7-bfc8-2819131831ec 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Blanc de Blancs - OldId:EwsAzQFoz0 - NewId:d5389354-7344-4e8b-bb48-64f5edb159ff 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+La Grande Dame Rosé - OldId:F1TayxR9FM - NewId:f93ef925-fc38-4d16-a7a0-df3fae978a46 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Cristal Rosé - OldId:F7NUhBzsG3 - NewId:d4e63a37-72c9-4da5-8a8f-a52a3b9c090e 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Brut Millésimé - OldId:F7YhFhDJHv - NewId:7c43105e-7932-49a1-a8b4-1d1a2f143f8f 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Oenothèque Brut - OldId:FBUicVjzNx - NewId:6b4189b5-c1ae-441b-8947-befed41d55c2 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Grand Vintage Brut - OldId:GEPOJd5NgX - NewId:3d2ebf87-cf82-4428-97f4-0370b13c926a 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+R.D. - OldId:GFo8C7IebM - NewId:4310ba53-3d7a-4df0-aec5-b2d1d0fe2b34 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Vintage Brut - OldId:GHp5rLSfDx - NewId:80c759bb-f607-4651-8a0e-f216b9922e4f 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Blanc de Noirs, LTD - OldId:GNCfXZmFEq - NewId:19401c70-6bdd-4e47-98de-79a9458e5d69 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+R.D. - OldId:GdPT6JNINz - NewId:b61ccd72-de11-4a60-86c1-d2677a2170c5 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+La Grande Année Brut - OldId:GjTzzoFG1N - NewId:7a5a1863-e4df-4eb7-8bdd-c58f6e69f351 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Sir Winston Churchill - OldId:GlTDJClW9v - NewId:fc826653-76e3-456a-aeb4-a3c3a35bfdd1 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Rosé - OldId:H1agHvoiFU - NewId:2c1f434d-f9b1-45ef-a76d-dff669289e1d 
+
+	--> Migration image failed --> ImageId set to Guid.Empty
+
+
+Dom Ruinart Rosé - OldId:H3eGxTKCCQ - NewId:59604028-44f0-4339-af21-718b602458a3 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Brut Millésimé - OldId:H3xIMWFYzy - NewId:79c38186-f4e5-4bf6-912b-7efe5d801e8e 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Demoiselle E.O. - OldId:HPfKtrYDHb - NewId:b6ff2334-9e92-4d02-8785-5b20f215394f 
+
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Demi-Lune - OldId:HTyo5IELbM - NewId:af9fe674-113c-489d-933a-d05508eed94d 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Comtes de Champagne Blanc de Blancs - OldId:HksiDEg7nV - NewId:bc13f03a-1624-4e6a-be87-f4a4a520584a 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Belle Epoque - OldId:HqDfREwulS - NewId:48943391-cec3-421b-803a-867bc0a4cd1f 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+La Grande Dame Brut - OldId:IMJ8P8G5J3 - NewId:182ef435-11d7-49c1-a0d5-ba63bdf5a173 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Collection - OldId:IQJJ6QZQtf - NewId:6bfdcf51-4663-48cf-8f7a-4e7821c3c099 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Brut - OldId:IkV0ztE7rN - NewId:06d1a436-8f48-40d7-87e3-26a6bb52ce73 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Oenothèque Brut - OldId:IoTJcgyiGe - NewId:7676c8d4-f795-452d-9fae-5964d7f3b662 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Demi Sec - OldId:IsTbzAxQuC - NewId:66d02658-5831-4d9a-ab03-1ad3f0d6e7ba 
+
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Dom Ruinart Blanc de Blancs - OldId:J4TrvBEJ6l - NewId:f9e3d9c6-143b-4c5e-bb67-bb2e0233515f 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Comtes de Champagne Rosé - OldId:JAEhojC8X8 - NewId:4173435e-4c06-4136-a1e1-df22d93b1efb 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Belle Epoque Rosé - OldId:JBj822v67S - NewId:25f12b2d-fdc6-40f8-a799-bd7eacdeaaf0 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Brut Millésimé - OldId:JK3v7CCUBF - NewId:fd986051-b083-47a9-9ca8-e5a3eb643506 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Grand Cordon - OldId:JXvW0XXdA4 - NewId:61b71c55-70fe-4f31-959b-25737bcb9c46 
+
+	--> Migration image failed --> ImageId set to Guid.Empty
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Sir Winston Churchill - OldId:Jfr7FCtBsf - NewId:2fdef1bb-b389-4e15-bb8f-677ae7e1b891 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Grand Vintage Rosé - OldId:JfwwFRNZYw - NewId:fb7c94a2-cb0f-424c-bfb4-6bbe116847b6 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Belle Epoque Rosé - OldId:JhyGCmV7VY - NewId:d8c214c7-45b7-4479-a45e-942e4a2dd695 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Vintage Rosé - OldId:JiFAzzHkg6 - NewId:f919f0ed-f31d-4baf-b4f8-ee7395bd8320 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Vintage Brut - OldId:JmnFBudrmU - NewId:448cf1a1-b4ab-42c1-8494-51c6737033ec 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Blanc de Noirs - OldId:JqKNGLsvKp - NewId:89775e56-0939-40dc-8f73-3e904867cc5c 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+LTD Belle Epoque Edition Automne - OldId:JrDSL1rorY - NewId:fd9dca56-0b5a-415a-b441-80f991e7ade9 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Vintage Brut - OldId:KEBerov3jM - NewId:4b499dc5-d6cd-45b3-839f-38f23f1f7b40 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Brut Millésimé - OldId:KFdBuTgxLo - NewId:fd066726-f623-4f32-a414-cf45e589bd5e 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+LTD Impérial Golden - OldId:KUV6G5trNj - NewId:3d9ad861-23de-441e-b1cd-34bff46939b7 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Comtes de Champagne Blanc de Blancs - OldId:KaWjsojxvh - NewId:9cd2a1ba-cc2c-4d88-a8b9-07d1f3605d60 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Blason Rosé - OldId:Klfjj1Umeb - NewId:e64cb123-d254-4262-94ed-2f4658e4a15c 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Vintage Rosé - OldId:KuCqf2CXiB - NewId:ebde85ac-e716-4b96-b901-0d9b2d0d281d 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Vintage Rosé - OldId:L1cHvKMIms - NewId:fc0092aa-8687-4f50-8eef-9ff074194f86 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+La Grande Année Brut - OldId:L1vEJkFdjY - NewId:96631c4d-839e-4f9d-a16d-741cfaa65c1c 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Vintage Rosé - OldId:LOGJwwcDn2 - NewId:102afac2-2160-47f0-9ea4-00c773231dc7 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Extra Réserve - OldId:LOdr6oYQjD - NewId:504ec078-e425-4aab-a68e-5abe883e67dd 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Alexandra Rosé - OldId:Lg51RXrBwY - NewId:9b85e526-81c5-4391-9740-972482d61448 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Le Millésimé - OldId:LgoFDZI6Nh - NewId:b7d31a02-f01d-4a51-bfe8-59a45848620f 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+LTD Brut by Björk & Chris Cunningham - OldId:LjZIFki2GZ - NewId:19473cd6-9b23-474d-8a6a-6a725e129aba 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Vintage Brut - OldId:Lk0fqvDMiP - NewId:b218e54b-0a62-4bd0-bff4-c4135b845ace 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+LTD Brut by Iris Van Herpen - OldId:Lx8kpsXOWQ - NewId:cacf4baf-4a56-4a45-8db8-388509c86820 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Vintage Brut - OldId:LxUl7KwDAZ - NewId:55bb39e7-45e7-4be3-ab34-5f65c874175d 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Impérial Ice - OldId:LzzBexh0Q9 - NewId:15eb7751-eb76-471f-b738-0883db8d8764 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Comtes de Champagne Blanc de Blancs - OldId:M8ecXTk8Hy - NewId:0cf736b3-8a6a-4075-afc4-f4edf85be754 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+N°1 Range Gold - OldId:MCpW4cu2hn - NewId:bc74c4b9-62fa-4dd7-8984-8615fa633e25 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Brut Millésimé - OldId:MHLoCOUrSS - NewId:f2255be4-93b7-4361-93d4-102e67476422 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Vintage Rosé - OldId:MKbwuGmiap - NewId:30ee50bc-c411-417f-9fcd-58f126e8d69f 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Vintage Rosé - OldId:MTjJgAn69p - NewId:467884c8-202e-4bd0-b2e1-9404bc1c33d9 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Vintage Brut - OldId:Mce0FTKS0r - NewId:1465a4f5-84df-4809-ba18-7bde7e522519 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+LTD 6 Years - OldId:NDPLwstFeU - NewId:81edb6c7-cec1-4cba-8815-af910937b1ab 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Dom Ruinart Blanc de Blancs - OldId:NHKsUHNXSE - NewId:7cc685ce-9dc0-4c76-827b-b63887ad9623 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Vintage Blanc de Blancs - OldId:NXISRqm3av - NewId:79ff42ba-ac19-4c75-86b6-2f23de99e327 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Grande Cuvée - OldId:NZYkux220U - NewId:3a3cf5da-ff08-4e91-b3b9-419ac21a2fc8 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Vintage Brut - OldId:NbEakCUKRf - NewId:cd982b7b-c297-450c-9016-b00bff1f847e 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Blanche - OldId:NkTXoUvxNE - NewId:9d3153ba-62d4-4397-ad18-7d6d2a3008c3 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Cristal Rosé - OldId:NmLnVommAO - NewId:8106ba91-e80e-49d5-ac74-1c6a16b08a82 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Comtes de Champagne Blanc de Blancs - OldId:NvC33bWoUz - NewId:0d37dadd-ff04-4a57-b4b4-b79b91c893ad 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Vintage Rosé - OldId:NxLrkTE25a - NewId:cfca7a16-1be2-4279-a49c-94528b62aec3 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Vintage Blanc de Blancs - OldId:Ny5LBD3NcG - NewId:d7bf51dd-8238-4b57-88a8-a7fedc47e1c7 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Vintage Brut - OldId:O9f9DxdMUv - NewId:0327c391-2605-484d-a32a-c18fe8844f2f 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Vintage Rosé - OldId:OB1zHpyBGg - NewId:f7f86eec-e937-4b24-921c-181755473a07 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+R.D. - OldId:OPiTUZ48l3 - NewId:f4a632b9-1e77-4c55-ba89-41422298658c 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Rich Demi-sec - OldId:OPqgLCNcEh - NewId:1ecca561-a595-4f5c-a358-aaddd467b830 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Nocturne - OldId:OQyuZO4UM9 - NewId:3d504cc6-2879-4dc2-aea4-0b7164fbaa8b 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+La Cuvée - OldId:ORKcXN397Q - NewId:04900c11-4712-4e54-a901-5e718a6d4128 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Vintage Brut - OldId:OcIHive5Vu - NewId:0b61421a-4d06-4288-86ed-8c6b40f5d6ba 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Blanc de Blancs - OldId:OqpoaKDz1c - NewId:8a5b9c81-000d-43fd-b48f-5a58aa761213 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Belle Epoque - OldId:PIEUSne2W0 - NewId:53f93869-c2c7-4771-9ef7-49cce95da800 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Brut Millésimé - OldId:PQkAbWpuGk - NewId:cb0120ef-af53-4127-a0be-cb1a0241c262 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Excellence - OldId:PZcHtOPs78 - NewId:e6e95fef-fde9-42e0-99e4-2ddbb893f92b 
+
+	--> Failed to convert.Excellence VintageYear:  could not be converted substituted with 0
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Vintage Rosé - OldId:PbRCGy1AO7 - NewId:d82ea8a0-2f17-4f27-8e0b-89295d83d1d6 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Grand Vintage Brut - OldId:PmoU1vv6B7 - NewId:a526ca4d-34ca-4300-bc48-b15e95e65fd1 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Vintage Brut - OldId:PuCES1BXGl - NewId:15d544a7-ae60-4f57-8aa5-b49588850a75 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Oenothèque Rose - OldId:PwdsCk0wmR - NewId:2e518e3b-424d-4c16-bdf5-e3201a2a8a00 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+P3 Brut - OldId:PzQjwtCwRS - NewId:a3e37b5a-40b1-45e8-bb64-a394980625d6 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Prestige Rosé - OldId:QBpXLL6C30 - NewId:87127609-db6c-450b-a525-a87a7bef5ca2 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Vintage Rosé - OldId:QT72PaNbCT - NewId:560edb50-fb38-4333-999b-96bf6a469e5f 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Grand Rosé - OldId:QuF7pM5DPL - NewId:e55d375a-a3cd-42ab-90e0-4f4c36b11f74 
+
+	--> Failed to convert.Grand Rosé VintageYear:  could not be converted substituted with 0
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Blanc de Blancs - OldId:R0RuDdgI5d - NewId:b9a43f56-d3be-4a81-9560-143582cc1672 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Royal Blue Sky - OldId:R2pS8q2e7m - NewId:49bb2adf-5ddd-4582-8df2-6aa437a7df22 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Gold Brut - OldId:R2t3HNvXqR - NewId:b4927c3d-e818-4254-acac-dc1b209ce6d5 
+
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Blanc de Noirs - OldId:R3pwKjXe0e - NewId:6404eb37-0f9c-42e8-9fa7-55b12fccfb5e 
+
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Vintage Rich - OldId:R6hktzv8cu - NewId:105dfb81-983e-4354-b64b-cfb9744be6ed 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+R.D. - OldId:RcF3rZrorD - NewId:f140e2f1-faef-409a-92ea-f385dce1ff66 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+P3 Brut - OldId:Rlh9uD3QjR - NewId:fa28f3d9-1613-4c4f-8a2b-142dd89d9957 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Belle Epoque Blanc de Blancs - OldId:S1ulcbH6Lt - NewId:09bf9906-2f2f-453d-b778-1eb4ac4b6bf1 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Grand Blanc de Blancs - OldId:S6vpOzzXwL - NewId:ff90c0d2-f6d1-4cb0-90de-0b1fab81c6a1 
+
+	--> Failed to convert.Grand Blanc de Blancs VintageYear:  could not be converted substituted with 0
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Rosé Réserve - OldId:SEmy3fiBs4 - NewId:47aad3a5-5673-41c9-a604-80748ecb98d6 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+LTD James Bond 007 - OldId:SRYiKIIxD0 - NewId:b377971f-00c9-4fd7-a860-4b80a529027f 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Brut Millésimé - OldId:SRgvugKh1d - NewId:d20bce95-6c42-4bf4-91e7-cb621605f022 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+La Grande Dame Rosé - OldId:SUNs55jRre - NewId:83441e1f-10bf-4940-91fe-dfaf3433ed7a 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Comtes de Champagne Blanc de Blancs - OldId:SUYsthfiEs - NewId:574721e3-a1fc-4828-b169-bfb6f6f49b7e 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Vintage Brut - OldId:T2Wzzystmu - NewId:bf2b2384-0b7c-4863-ae20-a952795f19dc 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Vintage Brut - OldId:TBKLZfdibs - NewId:61785abb-c4a7-4df3-a38b-3b43023599e6 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Le Millésimé - OldId:TXR5qfRw9f - NewId:b55a4e36-a4ce-4d74-85a8-718e82f22148 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Grande Année Brut - OldId:TYnp75gIIQ - NewId:4edc9f63-36d2-478a-a254-065d697c7c5b 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+R. Lalou Millésimé - OldId:Td3iaaYxVk - NewId:6a8dbe0a-582c-428e-9f5e-9fa2d0790a5e 
+
+	--> Migration image failed --> ImageId set to Guid.Empty
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Réserve Brut - OldId:Tiq7GiBSV4 - NewId:75e18379-deaa-462e-9380-c784c40af759 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Dom Ruinart Blanc de Blancs - OldId:Tr60RDHu3O - NewId:719e69f8-ef70-4e7d-b5ed-bbbf3699eed9 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Grand Vintage Brut - OldId:U48C0gVkPN - NewId:7efb249d-f47f-450e-a0da-4b4582922fb6 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Belle Epoque - OldId:U8ewjhJH6y - NewId:322652d7-8070-4874-9a37-f38034e78ed1 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Rosé - OldId:UR2eZaxXjs - NewId:e7e96e73-5059-41f4-a238-ae80b294a762 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Impérial Nectar Rosé - OldId:UeVwXCg6w9 - NewId:a212cbfa-b071-4ba6-b3b0-93c69928cda8 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Extra Brut - OldId:UlHB0tpwH3 - NewId:e8925507-235a-4258-8211-b736ccbfcee4 
+
+	--> Failed to convert.Extra Brut VintageYear:  could not be converted substituted with 0
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Vintage Brut - OldId:UmWnH0XpNr - NewId:faa48a84-4011-4ff9-bc87-31351c537f99 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Brut Club Millésimé - OldId:V62xpifonX - NewId:a217101e-0a74-4fc7-aaa4-cb9d7acbb517 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Oenothèque Brut - OldId:VBFIXLyk2O - NewId:02f846d1-15d9-4c05-ad40-2bd156bddc01 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Vintage Blanc de Blancs - OldId:VH9x52JjKS - NewId:440b9d2d-92e2-4a88-8d43-aae8cf2d6a13 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Le Millésimé - OldId:VRqQNZBCEA - NewId:e1b3d2a3-03ec-4ec8-a40e-7eab281fe343 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Vintage Rosé - OldId:VWsqjtIHQ8 - NewId:f6e1f943-dc76-42ff-aff7-fff3cb8da089 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Brut Millésimé - OldId:VdQAOaEINe - NewId:f7acb543-4b54-4b93-9491-ad73492ac5fa 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Vintage Blanc de Blancs - OldId:VmwCo6Ucqi - NewId:76ef231b-b9ba-470f-8b36-d2288f1fd424 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Nectar Impérial - OldId:Vt4B0FFeD1 - NewId:547202d4-797e-4b11-990d-19294dd94f15 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Vintage Rosé - OldId:W0xqSABpOv - NewId:49c3eff9-1b3c-4b23-866e-55e486b848e2 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Comtes de Champagne Rosé - OldId:WNlzNKzRn0 - NewId:14638ce5-3c76-4b8c-accf-0ab5cadbcdab 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Oenothèque Brut - OldId:WX2nK0Ejt3 - NewId:428e3894-0047-4f2b-b985-99b79d2d7a2b 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+LTD Belle Epoque Edition premiere - OldId:WYYPp5eyrV - NewId:c8f4f876-df7c-40b4-8fa3-824e8b8d9ddd 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+P2 Rosé - OldId:WbqoY89d7l - NewId:72028ff9-b7b9-4fd0-81c2-3802c784c3a5 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Comtes de Champagne Rosé - OldId:Wxisu88YCT - NewId:6edfb05c-12bc-42c1-8d33-bb7be557ff14 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Impérial Rosé - OldId:WyDGEkCgVw - NewId:3ba9a072-2cd9-4994-9838-5a48199337c0 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+P3 Rosé - OldId:WzDrXzn4BA - NewId:37eb744e-ac1f-4a1a-9121-01316f60df0a 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Collection - OldId:X7yedWF0XD - NewId:6f68bc5f-8c6a-4458-8989-062678735d97 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Vintage Rosé - OldId:XTJ6vcc8vu - NewId:635a555f-22d1-44c2-aa38-3ad2990559e1 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Grand Vintage Rosé - OldId:XZrEkB22ZT - NewId:5d3bf1f9-0803-4186-9e4c-9758f68a3875 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Blanc de Blancs - OldId:XcFJypuzTF - NewId:4767958f-bb39-4213-940f-7f7041bb4ace 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Blanc de Blancs - OldId:XfLfATae2y - NewId:7c958d2f-cdf4-45db-99c1-8163d88627c2 
+
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Grand Vintage Rosé - OldId:XpXFciysNr - NewId:03e79476-271a-4efd-a5dc-75e09be493a9 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Rosé - OldId:Y3W82Gr7gw - NewId:06feed5e-94ec-4647-99ba-1149e17b6bba 
+
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+La Grande Dame Brut - OldId:Y5zspHvB3P - NewId:6a26eab7-aca3-4ae2-b046-d909efce195f 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Grand Vintage Rosé - OldId:YYdCMkE9Hq - NewId:bc1b4382-33d8-4031-9f3d-f55f8d8bac66 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Vintage Brut - OldId:Yotuv2WRBL - NewId:a3c53764-42d3-4c43-86d0-49c3aa19414e 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Nuit Blanche Rosé - OldId:Z3niY0zslW - NewId:336546ef-e61d-4517-a708-9e93da84704d 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Le Millésimé - OldId:ZHWlpb5YLH - NewId:31b43af4-abb4-4793-a711-fcb56a97eb54 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Cristal Rosé - OldId:ZLGdBKVi3l - NewId:80a3957d-4f23-431d-9bc5-1d7c3aa667b6 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Dom Ruinart Rosé - OldId:ZZqnOAVbAo - NewId:46bf393c-ff67-43ac-9430-bb9a5b15e971 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Petite Douceur Rosé - OldId:ZdytvyicCc - NewId:819c19ef-63f2-4878-b1b8-858b8f802f6e 
+
+	--> Failed to convert.Petite Douceur Rosé VintageYear:  could not be converted substituted with 0
+
+
+P2 Brut - OldId:ZimnZ9Y7Aa - NewId:b80744e4-2577-499b-86c6-9dd8f46ff9db 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Comtes de Champagne Blanc de Blancs - OldId:Zo6YUElI7E - NewId:7b84a231-d082-4091-a02e-be490cde1ac8 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+R. Lalou Millésimé - OldId:ZsdFlMOOMn - NewId:497fdc5f-aae2-4fbd-b5f3-25a26c9b79de 
+
+	--> Migration image failed --> ImageId set to Guid.Empty
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Oenothèque Brut - OldId:ak30UuW1xH - NewId:a8685545-b88e-404d-9197-326b491f8e63 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Belle Epoque Rosé - OldId:amjs717VEt - NewId:57353496-8200-462e-9a0b-09a479d6c764 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Cristal - OldId:b8s9HreBkv - NewId:0eb9405d-e705-46e4-80e5-885e2b74984e 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Oenothèque Rose - OldId:bAIZGyrhQb - NewId:b61a317e-984f-4198-a352-eb3b08dfaa6f 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Vintage Brut - OldId:bG1BbjGuk0 - NewId:47aed268-8632-4046-a377-d0da549b5af4 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Classique Rosé - OldId:bGi9a8WTL0 - NewId:a8385819-ec0d-48b2-8543-505d2f1aa664 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Grand Vintage Brut - OldId:bHHJgsvHfT - NewId:2711830d-6464-41a9-a8f1-7b6fc837f928 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Collection - OldId:bgePYY8RjU - NewId:dd6b755b-015d-4d15-a738-b2f1126e96ad 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+R.D. - OldId:bpKojf6zEv - NewId:8703b8f2-7530-4057-a394-874793690c2a 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Dom Ruinart Blanc de Blancs - OldId:bvAtKhsfOf - NewId:d0c28cd5-2fd3-401e-a9f4-74e83bf1797d 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Clos D'Ambonnay - OldId:bvmoFoLOY9 - NewId:c51fef0a-88dd-4073-9186-07ecb04c9223 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Rosé - OldId:c6qVFE8ggX - NewId:7bbb4f81-6a63-480e-9412-a1d55bbde856 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Cave Privée - OldId:cBodbChVyz - NewId:90d3f8e7-3147-4b39-b290-22cdfaf1165b 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Brut - OldId:cBuTSdgi7B - NewId:2088b5ce-5a12-4e00-b6ab-c000aa94b2c4 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Belle Epoque Rosé - OldId:cNlKzOtfTg - NewId:fde4c8a1-06fc-4132-985e-ffeddd1cc662 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Blue Top Brut - OldId:ciVBRZfU4N - NewId:f40382fe-3dda-455b-996c-4d568da56e4a 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Vintage Rosé - OldId:cjuoAjXFcA - NewId:1b0f94b8-c59a-4b44-be40-22f11aec5495 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Vintage Brut - OldId:ck6P7KieHG - NewId:c73b4560-abed-4781-a0f7-5519251ef6ce 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Vintage Brut - OldId:cl0eZc6Khh - NewId:07d826a2-4276-4563-9b3e-526613dda79d 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Belle Epoque - OldId:cmOwDhUw6D - NewId:90971878-a53f-4d3b-b061-b20533b3c65e 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Vintage Brut - OldId:cx8NMBoMlx - NewId:8217cc20-8bf8-4b70-8a70-e3106fcd0cdf 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Nuit Blanche - OldId:d1XOC903Wv - NewId:18a92ea1-960e-47b9-a6c2-dbbfd03964c5 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Green Brut - OldId:d4W9CL8aaS - NewId:47edcea8-ff35-42fa-ba3b-62ddbe58be57 
+
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Cristal - OldId:dSEJRUz8i5 - NewId:0ca99461-1499-440b-8abc-c49ca3e738bf 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Vintage Brut - OldId:dfFJDDRHm1 - NewId:f7da5cf5-9146-4ba8-9a06-46a85ba3b9e0 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+La Grande Dame Rosé - OldId:dhPQDHG1dr - NewId:fd9ad1a4-2662-4e00-8958-d7c66577fe4b 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Grande Année Brut - OldId:dhiTMIVItr - NewId:4604daf5-6891-4117-b2ba-2c6844646496 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+P2 Rosé - OldId:dkvhKPQuEn - NewId:b8de49cb-4c3b-4f58-99db-44152471de97 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Vintage Blanc de Blancs - OldId:dqiH6GvU2m - NewId:ecf7add1-b9af-422a-b3a9-55a38c8433e8 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Belle Epoque Blanc de Blancs - OldId:eGW9naZ43q - NewId:3bfb8075-2287-47cd-a0ef-aeb6f8d87559 
+
+	--> Migration image failed --> ImageId set to Guid.Empty
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+LTD Brut by Jeff Koons - OldId:eR6c8Z0Wzg - NewId:785ac5e8-3fe4-4b53-9088-afc0cca0b9b2 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Vintage Rich - OldId:eT5TfwcgM9 - NewId:562a13fd-f023-4553-a830-7c04c5e367b3 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Vintage Rosé - OldId:eVCPy3Tunl - NewId:d1c500e4-68b6-400c-a1d7-ea93f822dc15 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Belle Epoque Blanc de Blancs - OldId:eWxLLEIKgL - NewId:51a8e876-cd9f-4dce-892f-44be5e1a13b2 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Belle Epoque - OldId:ejQwGQF59D - NewId:748a2371-4da1-483b-ad42-113b62dd63de 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Clos Du Mesnil - OldId:enbxEAWclO - NewId:0f718457-7110-427c-a9f8-27e344281ed1 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Brut Millésimé - OldId:ercdHXHN8D - NewId:7a8e740c-3dc1-4eca-90ed-5d6fd33d5ee1 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Blanc de Blancs - OldId:expADovtH9 - NewId:cda3cf83-c592-4b58-b5cb-f881c79b036e 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+R De Ruinart Vintage - OldId:eyRmuhBm4q - NewId:1d69554b-0906-4a37-9bf0-fbd5efd29d4c 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Blanc de Blancs - OldId:fTh1nPHZ5h - NewId:37f7aeab-a558-441b-b27a-c2cb4dbb691b 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Cristal Rosé - OldId:fURwLQW1hD - NewId:0952bbd6-04c0-42b8-888e-f585845b6c53 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Grand Vintage Rosé - OldId:fdCYDb2xVL - NewId:888fc43e-8135-46c1-81bb-5ff43fe724d5 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Sélection - OldId:fmDHlCoLJY - NewId:ac143454-3aa1-44e5-9518-827fa2082261 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Dom Ruinart Rosé - OldId:fw1MCxnopD - NewId:e084c569-6202-472e-a334-f09205b6b485 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Brut Millésimé - OldId:fxgUsJoSjs - NewId:fb1e8c0a-8113-49af-b8a9-8a7fb24a3579 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Vintage Rosé - OldId:gBhVM7zIOH - NewId:4d2fae1b-895c-4d8f-a5cd-3224399f27af 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+P2 Brut - OldId:gHH0EqwH1j - NewId:3516a16a-155b-4d0e-9d0b-5172d313df2f 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Vintage Brut - OldId:gZ3pegnAxh - NewId:8cb2c3b4-5663-47d7-b1f1-20d14eb47360 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Comtes de Champagne Rosé - OldId:gf9J1Je1jE - NewId:6b9d584b-9387-4c15-a207-794f573609ba 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Belle Epoque - OldId:h7CI0zxPAW - NewId:ee77afcf-b347-46e6-9c9a-5f7771fa8265 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Vintage Blanc de Blancs - OldId:hIq7zFcQ0D - NewId:2acaa3b6-ddc0-4cda-86cf-674a43b2b414 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+P2 Rosé - OldId:hJL0EjYB4h - NewId:807ecca9-3788-433f-9f30-cbf312b66cd8 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Demi-Sec - OldId:hOsvNhs6kj - NewId:f7c62879-9e70-459b-b34c-96535c6c1310 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Comtes de Champagne Rosé - OldId:hQ4G137HRv - NewId:4d36da2f-4313-45d5-b901-d851a0be1730 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Vintage Brut - OldId:hTINTE5M0w - NewId:3a04c9d6-202a-48b6-8363-21c483a2d46d 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Vintage Rosé - OldId:hWQwsoATif - NewId:ae5a1b6c-03f2-4ade-a308-c832912cffcb 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+R. Lalou Millésimé - OldId:ha4bpPyDKF - NewId:93aad6f0-a174-409f-8af1-a035eb425578 
+
+	--> Migration image failed --> ImageId set to Guid.Empty
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Clos Du Mesnil - OldId:hm8vRWdp7f - NewId:8bb4ca8e-4f34-4c90-ac1f-5c0ba02dce6b 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Alexandra Rosé - OldId:ht9H3FV3zG - NewId:6b645c30-00d6-4150-b732-cf9cfd34eec2 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Grand Vintage Brut - OldId:hwObA9S7ZS - NewId:de08ec94-12a5-4966-bf3a-5eb8bfb08908 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Belle Epoque - OldId:i9HLUULTGv - NewId:30bd3f90-4688-4f49-9950-0cc082ed26cc 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+N°1 Range Black - OldId:iHEG5Dlzhf - NewId:5dfc09c7-8d8c-4224-9bef-5abd95c0259b 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Rosé D'Assemblage - OldId:iHKHXeakMK - NewId:cc621ee6-0952-4943-bd1e-9965be25c626 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Brut Millésimé - OldId:iNdXDWHjir - NewId:57af0ef3-ee63-4aa5-90e9-b3139b7e5702 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Demi-sec - OldId:iSACC2D29J - NewId:260404d2-6893-4134-b635-01c94e15e8b0 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Vintage Rosé - OldId:j4KQBv1HuA - NewId:3dd5cf1b-e8ab-4c72-a08c-e5d4f95d657d 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Vintage Rosé - OldId:j61KOGxAeT - NewId:fc80b810-2023-4204-91f5-60304094a6cd 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Vintage Rosé - OldId:j9nmG2lOTg - NewId:85fd43e4-c721-4bcc-a6de-a7be7ae11ce5 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Grand Vintage Brut - OldId:jEJmv6oTXp - NewId:53b96acd-fd62-411f-b61a-b849c92f0a65 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Cristal - OldId:joXLaVY0pY - NewId:ddb6d5c7-1e0d-4850-aff1-b6c2366b234d 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Dom Ruinart Blanc de Blancs - OldId:juRQ5F3a5d - NewId:0768bf0c-1daf-477b-9178-8c8f64970af5 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Vintage Brut - OldId:jy55WW6ycw - NewId:722cce79-6bd2-4e3a-830d-fb5b7e2e916f 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Oenothèque Brut - OldId:kFtX1OfQu7 - NewId:12fcd2a0-5456-4006-b422-833bb97b6c16 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Rosé Vrai - OldId:kKUjXTzu8C - NewId:0c1de5c6-4b93-4cd5-ae46-40d854822153 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Sir Winston Churchill - OldId:kZ14FX0CWZ - NewId:9c0cf866-e74b-4943-8b9d-88f4159691d4 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Blanc de Blancs - OldId:kbw7GYWuPL - NewId:6be273af-490a-43f1-9425-d078717ac6b2 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Comtes de Champagne Rosé - OldId:kfr5ofCCse - NewId:2e032410-2b24-4fe0-a4b6-9332672c7f9e 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+La Grande Dame Rosé - OldId:l0uJADAVl1 - NewId:af2f0248-addd-4728-b6c6-dba6a93a21fa 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Belle Epoque Rosé - OldId:l42mRIO2qr - NewId:9b6a54ef-22a0-400c-a4c6-3e38e2ac517d 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Oenothèque Brut - OldId:l580Fcj7zt - NewId:35420195-2857-422a-9030-b24db3834505 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Cristal Rosé - OldId:lDU7sHGUqY - NewId:a3cfbeb8-0308-49f4-8792-6d4d76fb0936 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Le Millésimé - OldId:lGchb4sQ50 - NewId:8a348bea-2980-4671-aeb2-d3d62e8885d3 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Carte Blanche - OldId:lHWT8qMjzO - NewId:04dd74ed-9730-4dff-8ecb-3fbb80858846 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Vintage Brut - OldId:lIDUYjwWwP - NewId:75df54e1-5e3f-4bff-acca-f1e5e4fda01f 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Belle Epoque Rosé - OldId:lOa6a3HMsU - NewId:b80b9b76-bcd9-493c-8782-1f58371d1f2b 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Cristal Rosé - OldId:lcoEw3mBZD - NewId:be2d049d-e810-4667-bb03-4930c4369bbd 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Vintage Rich - OldId:ltihQygGQD - NewId:57a62bbd-93c8-4eea-9a6f-3eae85661dfa 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+La Grande Année Brut - OldId:m38eDLgp27 - NewId:222ae5df-c50b-4030-acfc-4c3f0b54a1cf 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Vintage Brut - OldId:mJtLzyvbBM - NewId:820998dd-1839-4b49-9afc-90c0516829d0 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Comtes de Champagne Blanc de Blancs - OldId:mSdxfQoi3S - NewId:b8d4d2a1-7b60-4795-b730-56cfd625a5bc 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Comtes de Champagne Rosé - OldId:mdXQgA5Keb - NewId:43100726-7d97-4dc1-8573-1459d484792a 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Vintage Brut - OldId:mecjtQiVPT - NewId:78056825-84c8-4f09-85ec-12950ad6bdf8 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+R De Ruinart - OldId:memcVyjQR0 - NewId:0440e6f3-cdc3-4e77-851c-5449e4545f01 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Alexandra Rosé - OldId:n8CH6zg3SK - NewId:149e4587-95f1-4dc0-9b33-7d37ef986248 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+La Grande Année Brut - OldId:ndMabSF1W2 - NewId:f733c1b2-9cda-4bc1-8c36-1853d419383b 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+R. Lalou Millésimé - OldId:nelcvpAYFK - NewId:7717f0a7-904f-4952-97e8-fb408d33ad40 
+
+	--> Migration image failed --> ImageId set to Guid.Empty
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Belle Epoque - OldId:nnEiYqGM1z - NewId:0849686a-a819-4d55-b395-c3c2ade0f9e5 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Sir Winston Churchill - OldId:npwtFExYeE - NewId:c81071c1-7a18-4c0a-89dd-fe6d7144225c 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+LTD James Bond 007 - OldId:o42W6vWm8z - NewId:be5b276b-e02f-4a79-812e-e30c15767400 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Rebelle - OldId:oA6rurwCvJ - NewId:4f3df7b0-219d-47e2-9738-677f52fbd6da 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Dom Ruinart Blanc de Blancs - OldId:oC5l6BAyrv - NewId:884fcba6-2250-4022-afb4-ec69b2b8f844 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Vintage Brut - OldId:oKDxaDJQOQ - NewId:a78378d7-e649-4caa-bf2c-b47a35d01497 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Le Millésimé - OldId:oTFNbPpQjC - NewId:e61d8fd9-dee2-45c1-9782-dc354270799a 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Belle Epoque Blanc de Blancs - OldId:opVlYl4uCJ - NewId:24243ca0-02a6-4860-93dc-c160fe77c1f3 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Zéro Dosage - OldId:orP3osVuej - NewId:392cde72-89d9-4bbb-bc92-4663f7a9465c 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Brut Premier - OldId:pE6MSznSPg - NewId:626b9a06-a7b3-44e4-a82c-19b80ed0bfff 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Brut Royal - OldId:pGh8TzRkFX - NewId:7707fb96-d29e-477f-88a5-84b289d498d2 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+La Grande Dame Brut - OldId:pQZyNwGUnW - NewId:d880db18-dcbb-4239-aee5-f6783c932e1c 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Classique Brut - OldId:phaqQva1xf - NewId:85ab5fe3-3078-4eec-8eb0-f17b91c2016c 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Clos Du Mesnil - OldId:pjSk48h7Z6 - NewId:3db1796e-1ac9-4b70-8a57-69959b58d4a2 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Le Millésimé - OldId:poL3ua81TI - NewId:987ac9e2-daa4-4f9e-9896-80ea9b221a6a 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+LTD Brut By Michael Riedel - OldId:q4DqVMd7sL - NewId:6210aa76-dedb-4a30-982f-6a569b5961fe 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Belle Epoque - OldId:q7mfrYgfmm - NewId:9117a578-3660-4e25-9dee-28eb547977ac 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Comtes de Champagne Rosé - OldId:qSn1MXArgh - NewId:fd255bcf-54ed-43ec-902b-e491b09b9411 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Cristal - OldId:qTHfl2eoXT - NewId:faaabd1d-9bd4-4f45-9dcd-fc1eab181aa3 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Vintage Brut - OldId:qblClcpAnq - NewId:aada62d1-1570-4d7d-9e3a-433e8d7e5925 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Vintage Brut - OldId:qlm4a6Hv3X - NewId:507924af-1f0f-4c6e-b590-ba7fda036605 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Vintage Rosé - OldId:qvh6Zvb2cg - NewId:bf62962c-d2da-4fae-8f8e-ad3183010557 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Vintage Brut - OldId:r134XOgSRX - NewId:2bd6e2f7-407e-4311-9db0-6dff9fe3eb26 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+La Grande Dame Brut - OldId:rBJ0WxFyB8 - NewId:39c1bff9-7603-4001-84b5-9048cb3dd3b4 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+La Grande Dame Brut - OldId:rYLKfBb47H - NewId:2c4d5026-1419-40f2-ad8e-5e03e16f0764 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+R.D. - OldId:raedkPzz7p - NewId:40198a7c-31f3-4f1a-8d31-2de43c82034c 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Blanc de Blancs - OldId:rbo9VDMbwh - NewId:41e6518c-b0b9-48c5-adc8-353b94f98e08 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Vintage Rosé - OldId:rlZ7r8kVqW - NewId:f9f16505-9c12-46c7-bf7a-c9ac2ae969f2 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+LTD Rosé By Michael Riedel - OldId:rnrUVpWVMl - NewId:ed7bf3bd-6d83-427b-9066-d236ade91b02 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+La Grande Dame Brut - OldId:rs70oQNO5a - NewId:0f6c0067-6f77-4087-9cd6-dbce5c172794 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Vintage Brut - OldId:sBh0RpnALf - NewId:e82c7b32-0e17-40a0-8ac4-e2a91e01ff9e 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Vintage Brut - OldId:t4b5M20dBP - NewId:44bb5093-1a2d-4c3f-9847-1b2e5494ed40 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Cristal - OldId:tIeozjJhlA - NewId:0197c819-25d1-4577-a491-2027c7b73a01 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Oenothèque Brut - OldId:tUmJIxT78m - NewId:41701707-b36e-4a27-86a7-dbd073679344 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Grand Vintage Brut - OldId:tfwAzEUz6X - NewId:757151f6-f3ba-4340-887a-ac6bffa05eeb 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Belle Epoque Rosé - OldId:tlcf6riEGY - NewId:c49d186a-be17-41b3-aff1-3411c8a8ef29 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Cordon Rouge - OldId:u0TyzImA8h - NewId:f924e7e1-0087-4717-950d-7596406c4612 
+
+	--> Migration image failed --> ImageId set to Guid.Empty
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Folies de la Marquetterie - OldId:u6qvrkdVcG - NewId:180110f1-598e-43b5-935f-da2c283fb47e 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Brut Vintage - OldId:uGaRQ9mDWN - NewId:39f2c7b8-99de-4d75-af67-a42339ec4fda 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Vintage Brut - OldId:uZiZuJYqVq - NewId:7327dfb5-0cdc-485f-ba87-e1bbee177354 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Vintage - OldId:urXNI4MrGA - NewId:862651d7-7f14-4695-8e56-e0363ac11455 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Vintage Brut - OldId:v8tYKF3TSf - NewId:35e76eff-5062-48d8-9f70-ca44cbe25dac 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Dom Ruinart Blanc de Blancs - OldId:vFI5Bfd7XE - NewId:d67167cf-938c-4104-b567-b62206ba231c 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Brut Nature - OldId:vFSW9myHro - NewId:a75594b6-1308-4903-aff8-618449f86ffc 
+
+	--> Old dosage: 'No dosage' --> Converted to Brut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Vintage Rosé - OldId:vIRH1g1ym2 - NewId:c4be6a67-e25e-4722-ac13-1f904318f8eb 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Comtes de Champagne Blanc de Blancs - OldId:vUUOVcuvEB - NewId:a58d3b43-e1cc-4a10-990a-4bc670ed7f57 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Comtes de Champagne Rosé - OldId:vtwOLAf3je - NewId:a74bf1af-3615-40f9-873c-1be6dbdc36c4 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Clos Du Mesnil - OldId:vxLqDcnqiF - NewId:320cc00a-d0fb-40aa-9b97-8cef133c8d39 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+P3 Brut - OldId:vyYza5eFVb - NewId:5f84b769-be80-472a-bc88-7c7981cea803 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Comtes de Champagne Rosé - OldId:w99fE6MDeL - NewId:65b61666-167b-4fb2-be20-2aea3f42cd6c 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Brut Millésimé - OldId:wLmfOjxuA2 - NewId:92d26879-2791-4c96-9173-b2f401185951 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Vintage Rich - OldId:waRml6d2IO - NewId:ce81663d-7203-4e47-983e-346a99f1cc4f 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Brut Millésimé - OldId:wgaYgLapNR - NewId:683ac85a-9b7d-4e8d-8439-282a16f5e853 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Brut Nature - OldId:wo51Kqe2vu - NewId:a427cd22-550b-444d-b129-d8764c3307de 
+
+	--> Old dosage: 'No dosage' --> Converted to Brut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Les Brousses - OldId:wwCjHLBNUT - NewId:04b12340-6b38-49dd-9ef9-44e9c54a0663 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Demi-Sec - OldId:xGyA61N5PD - NewId:c5c4c912-ce10-4a5c-a346-c14d8c01165e 
+
+	--> Migration image failed --> ImageId set to Guid.Empty
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Oenothèque Brut - OldId:xMFreS3IzF - NewId:c67f8111-d072-4f59-9160-48db2b0e1b09 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Comtes de Champagne Blanc de Blancs - OldId:xRQiEgrw4k - NewId:26d7976d-5363-4b42-a1b0-56dffa5d45c7 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+LTD Wedding Edition - OldId:xjYN3apkWY - NewId:ca4aaaf1-24d6-4749-b7ee-b8b39ec80d7c 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Medallion - OldId:xmtEo6s5SQ - NewId:8120323a-1df9-47b6-ac77-21b138a95fd9 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Dom Ruinart Rosé - OldId:y7amnG3BEI - NewId:2014b1a4-3dac-4a0e-898c-40ff62499c68 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+LTD Belle Epoque by Mischer Traxler - OldId:yBgEB9MTWq - NewId:84f3d6de-6f29-4825-83f2-e1af706a3d0d 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+La Grande Année Brut - OldId:yG8ZJbKPcT - NewId:720d091a-7d49-4575-b4fc-b10a66c6feb7 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+La Grande Année Brut - OldId:yRUjLb1DLl - NewId:b4cb89ff-c591-43d7-ac10-2d08fb0944e4 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Vintage Brut - OldId:yU0HGk9D40 - NewId:1ff6642a-98fc-435b-8bb7-4572afee5761 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Alexandra Rosé - OldId:yZI6ZWlrWJ - NewId:01839187-c82b-4cd5-97e1-dae1638841df 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Comtes de Champagne Blanc de Blancs - OldId:z6zSqY2pXq - NewId:6c669c71-6cec-4fc2-b6ea-09e420fc01d3 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Blanc de Noirs - OldId:z9QldDD0Or - NewId:1b79acd5-234f-4ca0-b4ec-dcbf975401a4 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Vintage Brut - OldId:zKjEUC8teB - NewId:9e5eb7f0-8d67-477f-a6f0-15c1311c38fc 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+La Grande Dame Brut - OldId:zgK6k1vq8w - NewId:8c5a70e0-01c4-4fca-911e-71017aeaa284 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Vintage Rosé - OldId:zrJL4WCYwo - NewId:270cbd5a-3978-4d8b-bff1-df5403970647 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Oenothèque Rose - OldId:zvfGBGxuIH - NewId:0fc82dd4-3e76-4006-af9d-c71042cf5ecb 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Blanc de Blancs - OldId:xbiFqVw6XV - NewId:34efbd51-3480-42a2-a865-94813ec674f0 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Grand Millésimé - OldId:i6cNBy9PyA - NewId:8ed17fa9-a164-47c7-9de3-34cba4aafbe3 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Celebris - OldId:VH5SdFGoTv - NewId:cbf25f3a-b2fa-481f-b9e5-5b9ddfbc4904 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Celebris Rosé - OldId:hMeBtONKex - NewId:c7a3ed7a-1993-40fa-a4f1-0a6ebb9f7f2f 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Brut Majeur - OldId:C6Cr7TPcRk - NewId:b24db036-3dfb-4eaf-a228-e01216be018a 
+
+	--> Failed to convert.Brut Majeur VintageYear:  could not be converted substituted with 0
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Brut Nature - OldId:XFFGMrBLvJ - NewId:0fd886df-9727-4cde-aa45-30fa81f4ee3b 
+
+	--> Failed to convert.Brut Nature VintageYear:  could not be converted substituted with 0
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Rosé Majeur - OldId:fvKaYBt7PI - NewId:502af696-b1ad-4f5b-9644-a5f57dfa7cbb 
+
+	--> Failed to convert.Rosé Majeur VintageYear:  could not be converted substituted with 0
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Rosé N°8 - OldId:ZhmWLFM8Ws - NewId:0707b794-d310-4eab-aee3-744699bbf1bd 
+
+	--> Failed to convert.Rosé N°8 VintageYear:  could not be converted substituted with 0
+
+
+Blanc de Blancs - OldId:OMOI2KDhy0 - NewId:27cb5376-9028-4184-b95e-2a9c253c39d8 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Perle d'Ayala - OldId:prrCJ0o3SC - NewId:51f78d8b-1ade-42e3-923a-fae76887461a 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Perle d'Ayala - OldId:2iu5WF4An8 - NewId:3a7598fd-b954-4804-94f1-c496e5536957 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Perle d'Ayala - OldId:9sXM4gYRLv - NewId:290fe58e-406d-4b8c-aefa-b415676be34e 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Blanc de Blancs - OldId:rMdtUxpP4o - NewId:62bdca0c-9029-4a89-9614-5d46b3b0e65d 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Blanc de Blancs - OldId:RWy5J5uPiU - NewId:dd7760a1-c80e-4539-88d3-ad01edd6391d 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Blanc de Blancs - OldId:jLEbwac68H - NewId:f7cf8ff2-3b46-4fb2-a698-8f630d418e77 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Blanc de Blancs - OldId:B1pKX8PN93 - NewId:5e9b4d37-1617-465a-9d44-6f5e3e1248a5 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Brut Nature - OldId:dRCbpHTqzC - NewId:40626ed6-92ad-44ce-bfd6-5e1b86765304 
+
+	--> Old dosage: 'Zero' --> Converted to Brut Nature
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Brut Nature Sans Soufre - OldId:nuFtrJe3ON - NewId:54807f0b-0657-4f1b-afb3-810b099424d8 
+
+	--> Old dosage: 'Zero' --> Converted to Brut Nature
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Carte d'Or - OldId:V9U1iREyLv - NewId:1233e42c-e87d-4a78-9096-c96bcdbd0b8f 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Charles de Gaulle - OldId:VojcQKcwjy - NewId:c6107188-465f-43d8-9628-0ad83c680e51 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Quattuor - OldId:PJvKNkQMTq - NewId:9c43e7ba-18c5-4c65-ba57-4bbb5d1cee0a 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Rosé de Saignée - OldId:JgqORKlREP - NewId:614aaedf-8314-40c1-8a04-6d04c7a7585a 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Rosé Nature - OldId:cEn788eu7x - NewId:7a03e3ac-f890-40b0-b488-61e5214bfa6c 
+
+	--> Old dosage: 'Rosé' --> Converted to Brut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Grande Sendrée - OldId:8dLHBp00Il - NewId:17417e60-8819-49d1-859b-f08a5a037cc3 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Grande Sendrée Rosé - OldId:ij0Xk3dtDI - NewId:b984c997-1bbd-458b-9389-d29246bd1bbf 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Rosé - OldId:2zKHDVzQsy - NewId:824826d7-b443-4de8-bac7-013370322825 
+
+	--> Failed to convert.Rosé VintageYear:  could not be converted substituted with 0
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Extra Brut Blanc de Blancs - OldId:nydD7u0dEI - NewId:d68c3404-7e56-473d-bb07-b87f4d48d74f 
+
+	--> Failed to convert.Extra Brut Blanc de Blancs VintageYear:  could not be converted substituted with 0
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Grand Cru Blanc de Blancs - OldId:XD1Ys2sdEG - NewId:37b4d831-7ecc-4269-9590-57b45c987365 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+P2 Brut - OldId:Va7ZZkVEgH - NewId:965dd280-4414-4190-927b-04e10b19077f 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Vintage Brut - OldId:0ftmElZFou - NewId:35060f88-683b-4712-8f65-896f11a09e5e 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+TRÈFLE D’OR Brut - OldId:tfNpj4wA8z - NewId:103fea57-4157-4c9b-b552-a655520ad4bd 
+
+	--> Old dosage: ''(nothing) --> Converted to Brut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Millésime - OldId:r8OZkNOFuF - NewId:dc07376e-5d48-46f5-8feb-77d3ac8fa246 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Tendre Rosé - OldId:i3bezCB6lA - NewId:232fae7f-2513-4766-9f4e-7c38e37f0a1a 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Blanc de Blancs - OldId:APvX4bNFEK - NewId:8a4e6820-3c1d-4db5-8e15-2c0fc3d8d212 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Blanc de Blancs Extra-Brut - OldId:fRZcoh9DFC - NewId:95b45b1e-0fdd-449a-b827-5ea30d6b5b89 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Grande Sélection - OldId:EgogUEGch5 - NewId:b5206726-1413-4a16-8263-4d18a7e8f492 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Lady de N Cuvée Rosé - OldId:hA5pJOM88y - NewId:aee94f68-1718-40d3-bce0-4707bb8e4e54 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Lady de N Cuvée Clovis - OldId:BRNgUHuw2A - NewId:bca44269-412c-46fa-88d4-6ce981948a26 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Lady de N Cuvée Chardonnay - OldId:NNcaEaLuR8 - NewId:070a3a46-b2ec-4b85-9184-adcb5de304e5 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Lady de N Cuvée Aged In Oak Barrels - OldId:iMjHIK5ejt - NewId:914fd0a5-3784-4658-b8ea-fc8bb1bfbacd 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Authentique Assemblage - OldId:blTrTz28Qc - NewId:c7208b7a-5468-4fb7-8fa6-1d241bb29b48 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Authentique Blanc de Blancs - OldId:rFJc38fRUN - NewId:d55c246a-a1c1-42ca-8102-5d21900bf771 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Authentique Rosé - OldId:GwcGVf2GcX - NewId:129edd3b-1b49-4534-b825-684e6aa11c1f 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Grand Vintage 2008 - OldId:yztiUiYimj - NewId:d997d732-5899-40db-b20d-1a49870a7c58 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Royale Réserve Non Dosé - OldId:QK50kRysmb - NewId:cf90a1fd-17a0-4bc9-81b2-aa15adbccec9 
+
+	--> Old dosage: 'No dosage' --> Converted to Brut
+
+
+Cuvée 1522 - OldId:vBkJkJOIBI - NewId:b0973501-2fa2-49a8-a354-e1ef2ea58ca7 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Cuvée 1522 Rosé - OldId:KhGjKWb5Q2 - NewId:8513a1e4-468e-4280-810c-d87cd22d38ad 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Clos des Goisses - OldId:0FdWNcMDbQ - NewId:b674d8f8-985b-4531-809d-de540cfe441e 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Blanc de Noirs - OldId:ILari6uOse - NewId:6b2d3da8-0658-4ffd-a8d7-253945ca9df4 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Mademoiselle Camélia Brut - OldId:ImwnMD1RDk - NewId:7c6caddf-957a-4b4a-81e8-8687077f0392 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Madame Ladybird Rosé - OldId:211tyUrdaM - NewId:64b35e2b-81b7-4614-ba7f-69a5a394403d 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Monsieur Bleu Brut - OldId:phatTPDykQ - NewId:e098cd84-a51b-4a73-9e6b-42ab05d680b6 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Cuvée Gabriel - OldId:t1BbV4LqED - NewId:64d74e55-dc58-4765-8a16-92166aac52c2 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Cuvée Millésimée - OldId:lsWIgDBExU - NewId:50ae4f1b-d9e4-4e51-a1d2-4d464ee5537e 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Vintage Brut - OldId:DvJTJ5UicT - NewId:c5628c91-d15e-48fb-9c2c-b67699a3ca33 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Grand Vintage Brut - OldId:mTCpn8ciMY - NewId:f6de2375-b9ae-4fd8-8b9d-7d866bdaa739 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Grand Vintage Rosé - OldId:6DxBHYjcCC - NewId:9ae37fa7-0e89-4a88-8dd9-c7babc360c3e 
+
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Brut Réserve - OldId:AulvUKH3de - NewId:942d4495-65b9-4a6a-84ff-7faa642f5a97 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Rosé de Saignée - OldId:FVeo9haTGZ - NewId:dc15387d-ccba-4386-b90a-7e4f94907c06 
+
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Premium Reserve Brut - OldId:NBD7A26NEW - NewId:b9edd4b0-f5b6-4f3d-a76b-c9b8515df296 
+
+	--> Old dosage: ''(nothing) --> Converted to Brut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Premium Reserve Brut 1er Cru - OldId:vj0RaXFAdK - NewId:bcd9794c-7af7-4647-bf74-39a2a7f2c336 
+
+	--> Old dosage: ''(nothing) --> Converted to Brut
+
+
+Premium Reserve Brut Rosé 1er Cru - OldId:cEPGzDNsWI - NewId:7de1d100-be3a-496f-80e3-d123ca8b1431 
+
+	--> Old dosage: ''(nothing) --> Converted to Brut
+
+
+Cuvée Comte de Marne Brut Grand Cru - OldId:a4LQng72Oy - NewId:27e87cc1-9854-4029-917c-8029a3b8c16e 
+
+	--> Old dosage: ''(nothing) --> Converted to Brut
+
+
+Cuvée Comte de Marne Rosé Grand Cru - OldId:SrCeULe4El - NewId:0edcde97-ba6f-42fa-84be-b5f5303bdfc8 
+
+	--> Old dosage: ''(nothing) --> Converted to Brut
+
+
+Cuvée Comte de Marne Grand Cru Millésime - OldId:HAurol7qRD - NewId:e97bc5a5-88a2-48ad-b286-61edd471f111 
+
+	--> Old dosage: ''(nothing) --> Converted to Brut
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Brut Mosaïque - OldId:Cc4kRmLwyC - NewId:00c5a08c-36e3-4bf3-a70f-5ff8226112b2 
+
+	--> Old dosage: ''(nothing) --> Converted to Brut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Extra Brut Mosaïque - OldId:AbDJ7UeaFU - NewId:952c96a8-70e9-4c00-9f7c-3e1120634740 
+
+	--> Old dosage: ''(nothing) --> Converted to Brut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Rosé Mosaïque - OldId:CSF1VMxxXm - NewId:e0ea64ab-6c1e-48e1-86e0-893d81912b8b 
+
+	--> Old dosage: ''(nothing) --> Converted to Brut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Brut Mosaïque Aged 5 Years - OldId:VT01r4G6Is - NewId:5b0690ec-bebc-46eb-ae2c-56e15c83143f 
+
+	--> Old dosage: ''(nothing) --> Converted to Brut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Blanc de Blancs  - OldId:D5q5KBvTI8 - NewId:ba7f953c-9bdc-4cc1-b36d-8ee3bcbba618 
+
+	--> Old dosage: ''(nothing) --> Converted to Brut
+
+
+Cuvée Alpha - OldId:cmQG0n3BIP - NewId:24dee6d5-e560-443d-b6a1-936897dcadc7 
+
+	--> Old dosage: ''(nothing) --> Converted to Brut
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Cuvée Alpha Rosé - OldId:d2er0cMZEg - NewId:059dfa91-ad20-49ed-b2d9-22549a77667c 
+
+	--> Old dosage: ''(nothing) --> Converted to Brut
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Blanc de Blancs - OldId:ynpFn3IJcu - NewId:381b0383-e751-4e4b-a83f-0502fc3d2c19 
+
+	--> Old dosage: ''(nothing) --> Converted to Brut
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Cuvée Carbon Brut - OldId:jPsjCE5rwP - NewId:1a5b6fff-c01b-4108-aa04-749e3af5467e 
+
+	--> Failed to convert.Cuvée Carbon Brut VintageYear:  could not be converted substituted with 0
+	--> Old dosage: ''(nothing) --> Converted to Brut
+
+
+Cuvée Carbon Rosé - OldId:N9Mmgoyh9R - NewId:b82ad349-e621-4844-a200-e274dd5bac78 
+
+	--> Failed to convert.Cuvée Carbon Rosé VintageYear:  could not be converted substituted with 0
+	--> Old dosage: ''(nothing) --> Converted to Brut
+
+
+Brut Nature - OldId:y25U7NX8Nk - NewId:3590e321-e52a-426e-8e5a-f252c5043b7f 
+
+	--> Failed to convert.Brut Nature VintageYear:  could not be converted substituted with 0
+	--> Old dosage: ''(nothing) --> Converted to Brut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Blanc de Noirs - OldId:ZEG8d2vmoP - NewId:4b25f058-109e-4e3b-abc2-de136c88573a 
+
+	--> Failed to convert.Blanc de Noirs VintageYear:  could not be converted substituted with 0
+	--> Old dosage: ''(nothing) --> Converted to Brut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Carte Or - OldId:UWHcjahpRM - NewId:4b4bb397-490b-4dba-813f-1d98b399f914 
+
+	--> Failed to convert.Carte Or VintageYear:  could not be converted substituted with 0
+	--> Old dosage: ''(nothing) --> Converted to Brut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Brut Rosé - OldId:cHBqhrQvaR - NewId:bf4da81f-53ba-4437-8e99-a94479b61084 
+
+	--> Failed to convert.Brut Rosé VintageYear:  could not be converted substituted with 0
+	--> Old dosage: ''(nothing) --> Converted to Brut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Blanc de Blancs - OldId:01fVFm9NZq - NewId:f74f6826-dc47-4979-88e0-d6c41bb9eec6 
+
+	--> Failed to convert.Blanc de Blancs VintageYear:  could not be converted substituted with 0
+	--> Old dosage: ''(nothing) --> Converted to Brut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Prestige Brut - OldId:Di1bYAhPqO - NewId:f627c161-6e66-4e4b-a8fa-345074388add 
+
+	--> Old dosage: ''(nothing) --> Converted to Brut
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Carte Blanche - OldId:dPz8vJq4qp - NewId:9cee4b9b-87ef-4a31-880a-6fba6be8bbe5 
+
+	--> Failed to convert.Carte Blanche VintageYear:  could not be converted substituted with 0
+	--> Old dosage: ''(nothing) --> Converted to Brut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Carte Noire - OldId:NmvF5nwbij - NewId:ee4cadf7-9195-4a92-907a-33e0dac62b30 
+
+	--> Failed to convert.Carte Noire VintageYear:  could not be converted substituted with 0
+	--> Old dosage: ''(nothing) --> Converted to Brut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Carte Noire Demi-Sec - OldId:8fYAYEwkXN - NewId:317a6383-f4aa-4672-908f-ae5c59e06fdc 
+
+	--> Failed to convert.Carte Noire Demi-Sec VintageYear:  could not be converted substituted with 0
+	--> Old dosage: ''(nothing) --> Converted to Brut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Perle de Rosée - OldId:2x8DEjTSjz - NewId:03d396fa-b02c-4bc4-9f2b-817516f36669 
+
+	--> Failed to convert.Perle de Rosée VintageYear:  could not be converted substituted with 0
+	--> Old dosage: ''(nothing) --> Converted to Brut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Rosé de Saignée Prestige - OldId:Br6B28ypgh - NewId:0315bbc2-30e8-4227-8b68-6555addb5f6b 
+
+	--> Failed to convert.Rosé de Saignée Prestige VintageYear:  could not be converted substituted with 0
+	--> Old dosage: ''(nothing) --> Converted to Brut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Spécial Club Charlier & Fils - OldId:IjDQbOjDGN - NewId:7ed26312-9b92-40b4-9a51-f3c25ffb3a05 
+
+	--> Old dosage: ''(nothing) --> Converted to Brut
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Coup de Foudre - OldId:naJ8nWgLzp - NewId:978ef262-95ad-4311-a139-33e8d1cdb533 
+
+	--> Old dosage: ''(nothing) --> Converted to Brut
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Millésimé Bacchus Sérigraphié - OldId:1wjXB7GhQt - NewId:e3a092e7-af5a-49fb-b4fd-cacf3d5e1bfd 
+
+	--> Old dosage: ''(nothing) --> Converted to Brut
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Brut Légende - OldId:HVeoTXW3bM - NewId:f14d58d9-af67-4fb5-ab5f-94f07d78512d 
+
+	--> Failed to convert.Brut Légende VintageYear:  could not be converted substituted with 0
+	--> Old dosage: ''(nothing) --> Converted to Brut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Brut Légende Blanc de Noirs - OldId:hyalGPp0Yd - NewId:144f426a-7247-4e9a-beb9-6b46acee5046 
+
+	--> Failed to convert.Brut Légende Blanc de Noirs VintageYear:  could not be converted substituted with 0
+	--> Old dosage: ''(nothing) --> Converted to Brut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Brut Légende Rosé - OldId:q5Q7Q4hGFK - NewId:d889c6b9-3cc2-4e0b-8c24-5992000f1bb7 
+
+	--> Failed to convert.Brut Légende Rosé VintageYear:  could not be converted substituted with 0
+	--> Old dosage: ''(nothing) --> Converted to Brut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Brut Légende Premier Cru - OldId:nUB1EKbt26 - NewId:390efea5-add6-4ee3-b2aa-ae932e3f2dbc 
+
+	--> Failed to convert.Brut Légende Premier Cru VintageYear:  could not be converted substituted with 0
+	--> Old dosage: ''(nothing) --> Converted to Brut
+
+
+Brut Légende Premier Cru Blanc de Blancs - OldId:NM3cdj7o2k - NewId:6d86d63a-782c-40f3-8363-847f522c81ce 
+
+	--> Failed to convert.Brut Légende Premier Cru Blanc de Blancs VintageYear:  could not be converted substituted with 0
+	--> Old dosage: ''(nothing) --> Converted to Brut
+
+
+Grand Blanc - OldId:FItJBUsGqM - NewId:7326fd3d-10fd-4a8a-9cfb-ba1abbd43a4a 
+
+	--> Old dosage: ''(nothing) --> Converted to Brut
+
+
+Grand Blanc - OldId:QpDjo4LdTl - NewId:d87fa997-8f88-4b5e-8027-02a51b8b4bec 
+
+	--> Old dosage: ''(nothing) --> Converted to Brut
+
+
+Réserve Millésimée - OldId:xGPz1H1r2y - NewId:e138ae0a-3b78-4be1-909e-462555256b75 
+
+	--> Old dosage: ''(nothing) --> Converted to Brut
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Réserve Millésimée - OldId:9z689JUHkA - NewId:f3f457b1-93ec-4e5e-bab6-7ecd5e154b9a 
+
+	--> Old dosage: ''(nothing) --> Converted to Brut
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Cuvée 1522 - OldId:7diNVAuFN5 - NewId:238f7a6a-4222-415a-be66-58efe4a830ff 
+
+	--> Old dosage: ''(nothing) --> Converted to Brut
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Cuvée 1522 - OldId:Qs8lPd9NSV - NewId:d74507a4-4970-42e6-b717-61081e62ec45 
+
+	--> Old dosage: ''(nothing) --> Converted to Brut
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Cuvée 1522 - OldId:hc2FqXhHdq - NewId:643cdfa0-129c-43d0-aab7-1999290a22d3 
+
+	--> Old dosage: ''(nothing) --> Converted to Brut
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Cuvée 1522 Rosé - OldId:75Rn4ukECG - NewId:7fb6c36a-20ee-4947-a10c-f484bef718c7 
+
+	--> Old dosage: ''(nothing) --> Converted to Brut
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Clos des Goisses - OldId:rCc2MY4XlU - NewId:900226ae-0745-425c-bea7-e299b3e5e0ac 
+
+	--> Old dosage: ''(nothing) --> Converted to Brut
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Clos des Goisses - OldId:6nBLNLf2qd - NewId:a36efa56-574e-499e-a4d3-96097ef8ccb6 
+
+	--> Old dosage: ''(nothing) --> Converted to Brut
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Clos des Goisses - OldId:6cQCgNgwuU - NewId:1fc04e37-2f80-43c3-8a35-2d29521576b5 
+
+	--> Old dosage: ''(nothing) --> Converted to Brut
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Clos des Goisses - OldId:6MwwSPTCmw - NewId:1f4ff5fc-9281-4946-a95c-b60dbf2e51c9 
+
+	--> Old dosage: ''(nothing) --> Converted to Brut
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Clos des Goisses - OldId:nJucKsQ7lx - NewId:41a4f08f-18df-4cf6-841e-a17d2086bc08 
+
+	--> Old dosage: ''(nothing) --> Converted to Brut
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Sublime Réserve Sec - OldId:PrE3lmxQva - NewId:9cdf4a28-8649-4814-8929-e4932adc8235 
+
+	--> Old dosage: ''(nothing) --> Converted to Brut
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Sublime Réserve Sec - OldId:m8YUnkYIQf - NewId:c40db74b-54dc-4712-8199-3dbf9588d0e0 
+
+	--> Old dosage: ''(nothing) --> Converted to Brut
+	--> Old style: 'Vintage' --> Converted to TradBrut
+
+
+Clos des Goisses Juste Rosé - OldId:npFuzvt3nr - NewId:b8de9fb0-494b-48bb-8b65-ec02c24f6558 
+
+	--> Old dosage: ''(nothing) --> Converted to Brut
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Clos des Goisses Juste Rosé - OldId:btf5ImRgpr - NewId:3d4a14f0-12bf-4cf3-899b-99fde222b27f 
+
+	--> Old dosage: ''(nothing) --> Converted to Brut
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+50N&50B - OldId:N0YyKkkVsU - NewId:12a8e575-b184-47df-bd2f-6807bfc49b7e 
+
+	--> Failed to convert.50N&50B VintageYear:  could not be converted substituted with 0
+	--> Old dosage: ''(nothing) --> Converted to Brut
+
+
+Cuvée d'Origine - OldId:luTGMEzUgK - NewId:87d78ec1-26bc-4035-aa6f-fd30a16402c7 
+
+	--> Failed to convert.Cuvée d'Origine VintageYear:  could not be converted substituted with 0
+	--> Old dosage: ''(nothing) --> Converted to Brut
+
+
+Brut Authentique - OldId:BVnnIq1bX4 - NewId:1bed6a81-85f3-46bb-bda8-46735a157104 
+
+	--> Failed to convert.Brut Authentique VintageYear:  could not be converted substituted with 0
+	--> Old dosage: ''(nothing) --> Converted to Brut
+
+
+Pur Rosé - OldId:WDRAlJOy0m - NewId:b0db4e16-0703-4a73-9dff-de0e278e725f 
+
+	--> Failed to convert.Pur Rosé VintageYear:  could not be converted substituted with 0
+	--> Old dosage: ''(nothing) --> Converted to Brut
+
+
+Rosé d'Exception - OldId:xQhePsAt8f - NewId:fa2f752d-5521-4492-81c1-285f43146437 
+
+	--> Failed to convert.Rosé d'Exception VintageYear:  could not be converted substituted with 0
+	--> Old dosage: ''(nothing) --> Converted to Brut
+
+
+Zero Liqueur - OldId:yLKqwP7lAg - NewId:a8d9255d-1abb-4e27-89e2-87e37f4e9abc 
+
+	--> Failed to convert.Zero Liqueur VintageYear:  could not be converted substituted with 0
+	--> Old dosage: ''(nothing) --> Converted to Brut
+
+
+Coup de Foudre - OldId:aXOvuqnBmT - NewId:d7e99242-d0f7-4048-b25b-57661a07c6e2 
+
+	--> Old dosage: ''(nothing) --> Converted to Brut
+
+
+Extra-Brut - OldId:8UCtUIFVQq - NewId:a7fbde8e-bd82-4776-81f3-d840892c5c12 
+
+	--> Failed to convert.Extra-Brut VintageYear:  could not be converted substituted with 0
+	--> Old dosage: ''(nothing) --> Converted to Brut
+
+
+Extra-Brut Blanc de Noirs - OldId:uWcMUt7g8G - NewId:2f7ff12d-3f57-46b2-952c-60247a969230 
+
+	--> Failed to convert.Extra-Brut Blanc de Noirs VintageYear:  could not be converted substituted with 0
+	--> Old dosage: ''(nothing) --> Converted to Brut
+
+
+Brut Rosé - OldId:CxqvQao6U1 - NewId:ce20f9db-ae99-49aa-ac78-c4e96d35da27 
+
+	--> Failed to convert.Brut Rosé VintageYear:  could not be converted substituted with 0
+	--> Old dosage: ''(nothing) --> Converted to Brut
+
+
+Brut Nature - OldId:lWTRf8hG0J - NewId:9e1fdfb6-45ed-4c42-a95a-416bfbde2a95 
+
+	--> Failed to convert.Brut Nature VintageYear:  could not be converted substituted with 0
+	--> Old dosage: ''(nothing) --> Converted to Brut
+
+
+Brut Nature Blanc de Blancs - OldId:tRpTDcuwHQ - NewId:c5e24896-261f-45f4-be6f-36ca40502326 
+
+	--> Failed to convert.Brut Nature Blanc de Blancs VintageYear:  could not be converted substituted with 0
+	--> Old dosage: ''(nothing) --> Converted to Brut
+
+
+Brut Nature Chouilly - OldId:vHj0uTtWeV - NewId:a8fdaca9-fa0d-4e81-af91-cacc85d1f32d 
+
+	--> Failed to convert.Brut Nature Chouilly VintageYear:  could not be converted substituted with 0
+	--> Old dosage: ''(nothing) --> Converted to Brut
+
+
+Brut Nature Cramant - OldId:IcdkcdzpsG - NewId:03714500-5d34-4b37-b13c-f9e76409b029 
+
+	--> Failed to convert.Brut Nature Cramant VintageYear:  could not be converted substituted with 0
+	--> Old dosage: ''(nothing) --> Converted to Brut
+
+
+Brut Nature Le Mesnil sur Oger - OldId:D6jTrzkmnx - NewId:cb0975f5-271e-4f7e-aa91-0975cda45361 
+
+	--> Failed to convert.Brut Nature Le Mesnil sur Oger VintageYear:  could not be converted substituted with 0
+	--> Old dosage: ''(nothing) --> Converted to Brut
+
+
+Brut Nature Verzenay - OldId:CMWTBvyj8j - NewId:6a21a112-63aa-400c-a19b-524b2091ae24 
+
+	--> Failed to convert.Brut Nature Verzenay VintageYear:  could not be converted substituted with 0
+	--> Old dosage: ''(nothing) --> Converted to Brut
+
+
+Cuvée Brut Tradition - OldId:0E15aWEKrP - NewId:ec419e9e-556b-4b87-9d79-34ec6e20f0e4 
+
+	--> Failed to convert.Cuvée Brut Tradition VintageYear:  could not be converted substituted with 0
+	--> Old dosage: ''(nothing) --> Converted to Brut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Cuvée Alliance Rosé - OldId:javzwm3CAQ - NewId:d0ed7312-59c4-4961-9a6d-6053ade56a48 
+
+	--> Failed to convert.Cuvée Alliance Rosé VintageYear:  could not be converted substituted with 0
+	--> Old dosage: ''(nothing) --> Converted to Brut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Cuvée Intense Chardonnay - OldId:Lh7Z0Ff7Tv - NewId:5fdc0c4c-17ea-418f-b7a2-de6a8f1db628 
+
+	--> Failed to convert.Cuvée Intense Chardonnay VintageYear:  could not be converted substituted with 0
+	--> Old dosage: ''(nothing) --> Converted to Brut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Cuvée Grand Héritage - OldId:3ge3hXRH2S - NewId:86f468c2-76b6-4a63-974b-db7a20aa6d56 
+
+	--> Old dosage: ''(nothing) --> Converted to Brut
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Cuvée Prestige - OldId:xPfSsSFCk1 - NewId:f29017ec-954a-4d7e-8429-fdfd3577187b 
+
+	--> Old dosage: ''(nothing) --> Converted to Brut
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Brut Prestige - OldId:wmTHnhLE5w - NewId:32338512-df6b-4aa5-b141-5fe73e3d9956 
+
+	--> Failed to convert.Brut Prestige VintageYear:  could not be converted substituted with 0
+	--> Old dosage: ''(nothing) --> Converted to Brut
+
+
+Extra Brut - OldId:FJE5cyMwd1 - NewId:8dd4e916-33ed-44a5-bd53-a12ea9b4b7a1 
+
+	--> Failed to convert.Extra Brut VintageYear:  could not be converted substituted with 0
+	--> Old dosage: ''(nothing) --> Converted to Brut
+
+
+Esprit Couture - OldId:MaeQOmCSiB - NewId:495578c9-81a9-4a51-bd9e-f0e1f07df55b 
+
+	--> Failed to convert.Esprit Couture VintageYear:  could not be converted substituted with 0
+	--> Old dosage: ''(nothing) --> Converted to Brut
+	--> Old character 'Prestige Cuvée' --> Converted to PremierCru
+
+
+Brut Art Déco - OldId:L0OzFNkvMh - NewId:e0550a48-3330-4fd2-8e62-d2ef86d28429 
+
+	--> Failed to convert.Brut Art Déco VintageYear:  could not be converted substituted with 0
+	--> Old dosage: ''(nothing) --> Converted to Brut
+
+
+Brut - OldId:FVFqGlnmCE - NewId:2c054ebd-2de7-4dda-9f8b-59fc38e3e937 
+
+	--> Failed to convert.Brut VintageYear:  could not be converted substituted with 0
+	--> Old dosage: ''(nothing) --> Converted to Brut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Blanc de Blancs - OldId:CpU9xg4HIa - NewId:0d4c9a10-ef0a-425f-831c-7b3b72d7a6dd 
+
+	--> Failed to convert.Blanc de Blancs VintageYear:  could not be converted substituted with 0
+	--> Old dosage: ''(nothing) --> Converted to Brut
+
+
+Blanc de Noirs Premier Cru - OldId:z63E6x6Hm3 - NewId:3c397a66-b377-4cdd-91c8-c8ed9f8d07b8 
+
+	--> Failed to convert.Blanc de Noirs Premier Cru VintageYear:  could not be converted substituted with 0
+	--> Old dosage: ''(nothing) --> Converted to Brut
+
+
+Demi-Sec - OldId:3wpwjGJsow - NewId:ff8384ba-bbb5-4c1e-9160-e2104a47f4c1 
+
+	--> Failed to convert.Demi-Sec VintageYear:  could not be converted substituted with 0
+	--> Old dosage: ''(nothing) --> Converted to Brut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Brut Rosé - OldId:vTpVZw2zfN - NewId:50d5bea5-15b7-40a7-ba7e-aabc0207f2b7 
+
+	--> Failed to convert.Brut Rosé VintageYear:  could not be converted substituted with 0
+	--> Old dosage: ''(nothing) --> Converted to Brut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Rosé Dry Collection Privée - OldId:sCAbNH6ZJh - NewId:40c91762-f181-452f-9fbd-f4226a73e445 
+
+	--> Failed to convert.Rosé Dry Collection Privée VintageYear:  could not be converted substituted with 0
+	--> Old dosage: ''(nothing) --> Converted to Brut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Millésime 2008 - OldId:OcbGAcYpht - NewId:2bfe382e-9116-4eaa-9ef3-4065cd4e8ee9 
+
+	--> Old dosage: ''(nothing) --> Converted to Brut
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Brut Vintage 2008 Collection Privée - OldId:ZN9zHF5L6U - NewId:31847eb1-2d80-4173-b731-bba1315e4790 
+
+	--> Old dosage: ''(nothing) --> Converted to Brut
+	--> Old style: 'Vintage' --> Converted to TradBrut
+	--> Old character 'Cuvée' --> Converted to GrandCru
+
+
+Brut Rosé - OldId:5oOqkboDyF - NewId:513dac36-3252-4bce-a3fc-cdecd84e7491 
+
+	--> Failed to convert.Brut Rosé VintageYear:  could not be converted substituted with 0
+	--> Old dosage: ''(nothing) --> Converted to Brut
+
+
+Champagne Migration Error Log - 11/20/2018 23:11:57
+
